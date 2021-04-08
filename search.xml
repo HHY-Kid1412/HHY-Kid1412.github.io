@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>Hello World</title>
+    <url>/post/4a17b156.html</url>
+    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>About VPN and Darkweb</title>
+    <url>/post/4e193be9.html</url>
+    <content><![CDATA[<h3 id="对未知的探索一直是我的强项"><a href="#对未知的探索一直是我的强项" class="headerlink" title="对未知的探索一直是我的强项"></a>对未知的探索一直是我的强项</h3><h4 id="VPN"><a href="#VPN" class="headerlink" title="VPN"></a>VPN</h4><p>一开始也是为了去翻墙下载一些Minecraft的东西（翻墙的网速比较乐观），当时为了一个window的翻墙软件也是费劲心思，结果，又是误打误撞地，在一个手机的翻墙软件上首次接触到了V2ray，然后就在手机网页端现在了压缩包传到电脑并连接节点，这是首次在电脑完成VPN连接。<br>后来那几个免费节点失效后，一段时间也不知道电脑怎么翻墙了。有段时间一直使用Google浏览插件去访问Google，但是由于仅限于Google果断被我淘汰。手机用一些软件翻墙后Google找到vpn-gate，电脑连接成功。但是速度贼慢而且只支持全局，其实前段时间V2ray是支持PAC的（忘了是不是这样叫），反正就是，连接国内网站就是按照普通方式连接，遇到墙外网站就是VPN连接那种。<br>直到后来接触Github，没错又是这个万能网站</p>
+<blockquote>
+<p>github.com/freefq/free</p>
+</blockquote>
+<p>这里提供了V2ray下载以及多个ssr/vmess节点，还支持订阅的，太完美了，当然，免费结点速度还是很一般，那没办法，不过也稳定了不少了</p>
+<h4 id="暗网"><a href="#暗网" class="headerlink" title="暗网"></a>暗网</h4><p>我知道暗网对很多人来说都是听过很多次但是很陌生的，所以我决定造访它。<br>这听起来似乎很疯狂，但是墙都翻了，跑远一点也没事吧hhhh</p>
+<h5 id="访问暗网前的准备"><a href="#访问暗网前的准备" class="headerlink" title="访问暗网前的准备"></a>访问暗网前的准备</h5><p>Tor浏览器，必备，一个暗网的钥匙，能访问 .onion 域名的网站，正常浏览器是访问不了的。百度搜索tor第一个就是“暗网不是法外之地”哈哈哈哈哈哈哈；<br>为了安全，我还去下载了个网络安全的软件，叫巴卡啥来着？然后因为下载太慢了被我取消了，然后直接裸奔暗网，说实话还是有点怕的，毕竟网络安全这一块，不怕一万就怕万一，信息泄露是小事，中病毒就完蛋了。<br>当然，我还做了很多功课，比如去查了一下访问暗网会不会犯罪。。。不过还好，就像VPN一样，虽然明令禁止，但是只要不发表违法话题或者不做违法事，还是不追究法律责任的；  </p>
+<h5 id="进入暗网"><a href="#进入暗网" class="headerlink" title="进入暗网"></a>进入暗网</h5><p>说实话，这个步骤是最复杂的，今晚一晚上都在做这件事。从下载tor，到配置，到浏览，我起码花了两小时以上。<br>配置tor这一块，一直error，Google也找了很多方法，本来想放弃了，结果居然就好了（可能之前加载太多网页太卡了）<br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/170539/20/14930/24396/605e1298Eb4dcdd58/b3f4046c98b236a0.png"><br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/172479/14/614/24893/605e1297Ea385dc46/634e029de62a4d5b.png"><br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/166435/31/14805/84381/605e1298E2cd66dbf/f0a76b316e270782.png"><br>上面为进去的首页，其实也就是个浏览器，只是工作原理不一样，具体怎么不一样我也懒得说自己Google；<br>然后就是想看看，这里面到底有啥好玩的，用了duckduckgo去找，结果啥也没找到，然后用另一个暗网搜索引擎，花了还几分钟搜索“虚拟交易”和“数据”就出现了那么点东西，可能还是搜索引擎用不到地方。<br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/168530/33/14981/298396/605e129dE76ab4f3e/7f05d405a2be5eaa.png"><br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/162154/1/14926/612952/605e12a5E5d0da884/bc03fc2a7bc19f4f.png"><br>上图为一个比特币交易所，可以花比特币去买苹果手机和平板电脑；<br>当然，我不敢去踩雷找一些违法的网站（尽管我知道那个交易网站），在搜索tor相关的时候，就看到了中国对进入暗网的会进行监控，进几年也已经报导了很多VPN被抓，然后tor虽然本身安全，但是网页加载的Javasrcipt也可能导致IP泄露，所以可能也不是百分百安全，何况我连的还是公共VPN，不敢冒险也不能冒险！  </p>
+<h3 id="结束"><a href="#结束" class="headerlink" title="结束"></a>结束</h3><p>其实我也就是太闲了，暗网对普通人来说，确实没啥可用的，翻墙倒是还行。抱着学习的心态来的，也差不多就是这样啦~</p>
+]]></content>
+      <tags>
+        <tag>探索</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>域名邮箱</title>
+    <url>/post/10da8cd0.html</url>
+    <content><![CDATA[<p>买了域名以来，对于各种云产品的接触都大了，突发奇想，想自己开一个域名邮箱。<br>QQ邮箱和网易邮箱大家都在用，对吧，我就想整个跟大伙不一样的，刚好我也有域名不是，如果能做一个独立邮箱出来，那肯定与众不同，关键是能多开几个小号，最近出来QQ邮箱和163邮箱外，已经没有多余的邮箱来注册一些东西了。  </p>
+<p><strong>日常整活，说干就干</strong>  </p>
+<ol>
+<li>邮箱肯定要有一个服务器，还要能长期运行不会说崩就崩的，那就肯定不会是我自己的服务器了；  </li>
+<li>QQ邮箱和网易邮箱也不支持绑定自己的域名了，排除；</li>
+<li>要开独立域名邮箱好像也得是企业邮箱，看了腾讯和网易，好家伙全是收费的，还那么贵；然后去了隔壁阿里云，果然有免费版嘿嘿嘿；</li>
+<li>创建完企业邮箱，绑定域名一气呵成（接触这么久，看到这些都觉得轻而易举了）</li>
+</ol>
+<p>所以现在，只要是 </p>
+<blockquote>
+<p><a href="mailto:&#x58;&#x58;&#88;&#64;&#x79;&#105;&#x61;&#x6e;&#x67;&#x2e;&#115;&#116;&#111;&#x72;&#101;">&#x58;&#x58;&#88;&#64;&#x79;&#105;&#x61;&#x6e;&#x67;&#x2e;&#115;&#116;&#111;&#x72;&#101;</a>  </p>
+</blockquote>
+<p>名字我还可以随便取</p>
+<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/176210/11/209/99760/605b6ae2Ef903c248/296560f863072a94.png" alt="阿里云企业邮箱"></p>
+<p>（上流）  </p>
+<p>而且，最多我可以创50个邮箱，邮箱名还可以随便起，以后不怕没有邮箱去注册东西了嚯嚯嚯<br>顺便说一句：阿里云，慈善公司啊，域名也是阿里云买的，要不是服务器用不上也买了，阿里云盘也好用，速度和容量吊打毒盘（内测用户偷笑）</p>
+]]></content>
+      <tags>
+        <tag>花里胡哨</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>好久没来配置网站了~</title>
+    <url>/post/4e2b5de5.html</url>
+    <content><![CDATA[<h3 id="我回来啦！"><a href="#我回来啦！" class="headerlink" title="我回来啦！"></a>我回来啦！</h3><p>已经有一个多星期没有发文章了在这个网站，上个星期也比较多事情，加上一些心理上的压力，导致很久没打开网站看看。今晚刚好发了几张图片之后，还是感觉网站太多瑕疵了。果然我还是那么懒，从一开始网站投入使用后就很少理过它了。<br>我本来想加上评论区和搜索功能，结果在CSDN找了半天，啥有用的也没找到，所以我只好去找这个主题的官方文档，一开始还是很抗拒的，毕竟官方这种东西嘛，一般会比较难懂。不过还好，butterfly的作者是台湾的好像（还是香港来着），起码语言上没有啥代沟，所以今晚就着官方文档，修修补补把网站优化了一些。</p>
+<h3 id="优化项"><a href="#优化项" class="headerlink" title="优化项"></a>优化项</h3><p>其实肯定不止维护窗口那几点，那个懒得写那么多。而且今晚下来，感觉对于这个主题又熟了一点，我终于知道作者的良苦用心了www<br>优化了外表的有维护窗口那些，其实我还是比较喜欢那个链接变短，之前的链接，都啥玩意儿嘛，对吧，拖着日期夹着乱码，然后我想着如果title改为英文的，那链接不就不是乱码了，结果你猜怎么着，链接没问题，全文的中文都是乱码/捂脸.jpg  ； 所以这个优化链接，真的是改到我心里去了。<br>至于那个点击特效，还有字数统计，都差不多吧，点击特效跟之前那个鼠标拖尾特效的原理完全不一样，没想到点击特效只要在配置文件里面把“false”改为“true”就好了，早知道那用以前那麻烦真的是；</p>
+<h3 id="官方文档得到的启示"><a href="#官方文档得到的启示" class="headerlink" title="官方文档得到的启示"></a>官方文档得到的启示</h3><blockquote>
+<p><a href="https://butterfly.js.org/">https://butterfly.js.org</a></p>
+</blockquote>
+<p>这个主题真的棒；<br>不过好多东西还是得自己去一步步试，硕大个B站居然没有一个教学视频，整的我，浪费了好多时间；  </p>
+<h3 id="未来优化项"><a href="#未来优化项" class="headerlink" title="未来优化项"></a>未来优化项</h3><ol>
+<li>加入评论区</li>
+<li>加入留言板</li>
+<li>添加SEO【百度收录】</li>
+<li>自定义侧边栏</li>
+</ol>
+<p>至于是多久以后能完全，那就完全看我心情了哈哈哈；<br><em>争取把这个小破站做大做强</em></p>
+<blockquote>
+<p><a href="https://www.pianshen.com/article/46251816350/">https://www.pianshen.com/article/46251816350/</a><br><a href="https://www.antmoe.com/">https://www.antmoe.com/</a><br><a href="https://www.freesion.com/article/91331148270/">https://www.freesion.com/article/91331148270/</a><br>几个butterfly教程相关网站，先存着</p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>探索</tag>
+        <tag>网站历程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>开放注册此域名的邮箱！</title>
+    <url>/post/bfc6ec80.html</url>
+    <content><![CDATA[<h2 id="开放注册-yiang-store-邮箱"><a href="#开放注册-yiang-store-邮箱" class="headerlink" title="开放注册 @yiang.store 邮箱"></a>开放注册 @yiang.store 邮箱</h2><hr>
+<p>经过了一晚上内测时间，测试的几个邮箱服务基本没有出现错误，内测通过<br>3.25发布公测  </p>
+<h3 id="这个邮箱有什么好处"><a href="#这个邮箱有什么好处" class="headerlink" title="这个邮箱有什么好处"></a>这个邮箱有什么好处</h3><ol>
+<li><p>支持靓号选择，如：</p>
+<blockquote>
+<ul>
+<li><a href="mailto:&#x31;&#x40;&#x79;&#105;&#97;&#110;&#103;&#46;&#x73;&#116;&#111;&#x72;&#101;">&#x31;&#x40;&#x79;&#105;&#97;&#110;&#103;&#46;&#x73;&#116;&#111;&#x72;&#101;</a></li>
+<li><a href="mailto:&#x68;&#64;&#121;&#x69;&#x61;&#110;&#103;&#x2e;&#x73;&#116;&#111;&#114;&#101;">&#x68;&#64;&#121;&#x69;&#x61;&#110;&#103;&#x2e;&#x73;&#116;&#111;&#114;&#101;</a></li>
+<li><a href="mailto:&#x36;&#54;&#54;&#x40;&#x79;&#105;&#x61;&#110;&#x67;&#x2e;&#115;&#x74;&#x6f;&#114;&#x65;">&#x36;&#54;&#54;&#x40;&#x79;&#105;&#x61;&#110;&#x67;&#x2e;&#115;&#x74;&#x6f;&#114;&#x65;</a>  </li>
+</ul>
+</blockquote>
+</li>
+<li><p>为你多一个不同的邮箱</p>
+<blockquote>
+<p>一开始我的初衷便是如此，QQ邮箱暴露了qq账号，好巧不巧注册网易邮箱的时候把手机号加进去了。所以想要注册一个不暴露社交账号的邮箱供使用以便不时之需。</p>
+</blockquote>
+</li>
+<li><p>添加一个小号</p>
+<blockquote>
+<p>邮箱注册其它东西的时候通常都会用到，如果你QQ邮箱和网易邮箱都已经注册，或许我可以帮到你呢</p>
+</blockquote>
+</li>
+<li><p><strong>添加邮箱很便捷</strong></p>
+<blockquote>
+<p>完美兼容手机“电子邮件”APP 以及 win10系统自带的“邮件”，<strong>使用邮箱和密码即可直接登录</strong></p>
+</blockquote>
+</li>
+<li><p>可以不绑定手机号，且只要记住密码，随处随时使用</p>
+<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3></li>
+</ol>
+<ul>
+<li>手机“电子邮件”APP 以及 win10系统自带的“邮件”，<strong>使用邮箱和密码即可直接登录</strong></li>
+<li>在别的邮箱中，添加一个“其它邮箱”，例如在QQ邮箱中添加一个<em><a href="mailto:&#x61;&#x62;&#x61;&#98;&#x61;&#98;&#97;&#64;&#121;&#105;&#x61;&#x6e;&#x67;&#46;&#x73;&#116;&#111;&#x72;&#x65;">&#x61;&#x62;&#x61;&#98;&#x61;&#98;&#97;&#64;&#121;&#105;&#x61;&#x6e;&#x67;&#46;&#x73;&#116;&#111;&#x72;&#x65;</a></em>，在“添加邮箱”页面，输入邮箱和密码后，会出现一个选择服务器以及端口，如下添加  <blockquote>
+<p>服务器：pop3.mxhichina.com<br>端口：995<br>SSL √  </p>
+</blockquote>
+</li>
+<li>正常情况下便可以添加了，如还需发件服务器，则如下<blockquote>
+<p>stmp服务器：stmp.mxhichina.com<br>端口：465<br>SSL √  </p>
+</blockquote>
+</li>
+</ul>
+<p><strong>但是值得注意的是，在正常邮箱软件中是不需要填写那么多的，一般输入邮箱地址和密码，默认状态下（或者pop3）便可登录邮箱！</strong></p>
+<h3 id="申请方法"><a href="#申请方法" class="headerlink" title="申请方法"></a>申请方法</h3><p>将邮箱名通过任何联系方式发送给我，若没有人注册过该邮箱，我便会为你创建一个邮箱<br>如：  </p>
+<blockquote>
+<p>你用QQ邮箱，发送“<em><a href="mailto:&#x61;&#x62;&#97;&#98;&#x61;&#98;&#x61;&#64;&#x79;&#105;&#x61;&#x6e;&#103;&#x2e;&#x73;&#116;&#x6f;&#114;&#x65;">&#x61;&#x62;&#97;&#98;&#x61;&#98;&#x61;&#64;&#x79;&#105;&#x61;&#x6e;&#103;&#x2e;&#x73;&#116;&#x6f;&#114;&#x65;</a></em>”到我的邮箱<em><a href="mailto:&#104;&#x68;&#x79;&#x40;&#121;&#x69;&#x61;&#x6e;&#103;&#46;&#x73;&#x74;&#x6f;&#114;&#101;">&#104;&#x68;&#x79;&#x40;&#121;&#x69;&#x61;&#x6e;&#103;&#46;&#x73;&#x74;&#x6f;&#114;&#101;</a></em>,我会在24小时内为你创建一个该地址的邮箱，并发回QQ邮箱告诉你邮箱已经创建好了  </p>
+</blockquote>
+<p>拿到邮箱后，可更改默认密码以便提高安全性  </p>
+<h3 id="更多相关信息"><a href="#更多相关信息" class="headerlink" title="更多相关信息"></a>更多相关信息</h3><ul>
+<li>该域名邮箱不会提供非常多名额供给注册；</li>
+<li>邮箱服务为阿里云的免费服务；</li>
+<li>邮箱隶属于阿里云企业邮箱，因此<strong>你可以使用邮箱登陆阿里云企业邮箱，然后在里面进行修改密码、绑定手机等操作</strong>；</li>
+<li>承诺5年内维护邮箱，理论上长期维护；</li>
+<li>在成功创建邮箱后，登录上去后回收到更多邮箱使用说明，例如上述的修改密码等；</li>
+<li>如发生不可抗力，会提前发送邮件说明和提醒；</li>
+<li>最终解释权归邮箱提供方我所有</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>探索</tag>
+        <tag>花里胡哨</tag>
+        <tag>修仙之路</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>归校篇</title>
+    <url>/post/100f1d80.html</url>
+    <content><![CDATA[<p><strong>本来应该是昨天写下这篇的，可惜昨天高铁上没啥心情思考，回到学校又一直在收拾东西忙不过来</strong></p>
+<h3 id="寒假"><a href="#寒假" class="headerlink" title="寒假"></a>寒假</h3><p>其实一开始准备回广州的时候，那种感觉还好像刚刚放寒假回家一样，整个寒假就那么过去了。在家里每天起床都很晚，什么事都没做，那过得确实是有点快。<br>回家过的年，好像也少了很多年味，敷衍的仪式感好像逐渐被我感知，过年好像就是完成任务一样/捂脸；爸爸的厨艺还是老样子凑合，加上家里也更忙了，根本无暇照顾到越来越淡的“年”<br><em>以致于等到我要回学校的时候，还觉得家里空空荡荡害</em></p>
+<h3 id="归校"><a href="#归校" class="headerlink" title="归校"></a>归校</h3><p>买到的高铁票是在28号下午，于是28号整个中午和早上都让我有点坐立不安，好像有一件大事还没完成。这种感觉就像是高二和高三的每个星期日快要回去高中的时候一样。<br>下午两点多的时候本来想吃点东西，结果没啥胃口（换做平时那是不可能的）<br>回校前，老习惯，跟奶奶去庙里拜一拜：<br>这是我奶奶的习惯，算是给我祈福，按照老一辈的习惯，出远门前都要祈祷一下嘛<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/163438/11/8709/223091/603cdd9fEc0a1e5d5/3caa90c3ac12200a.jpg"><br>如果说祈祷是我奶奶的仪式感，那下面就是我的了<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/162040/15/8659/1058301/603cde9eEc58af4fe/f61640a1d01fe6b6.jpg"><br>几年前，我和我哥在那里刻下了HHTY（我们名字的缩写），然后每年过年的时候就会去那里把刻痕再临摹一遍hhh</p>
+<h3 id="返途"><a href="#返途" class="headerlink" title="返途"></a>返途</h3><p>可能刚好是月底，高铁站人离谱的多，进站排队就算了，检票完还要排队<br>高铁还是很舒服，下午4点半到7点半左右的路程，从激动到入眠，从日照到灯光，心情也随着时间流逝发生着变化<br>差不多六点多，车内外灯光都亮起来的时候，突然有种莫名其妙的感觉涌上心头，好像在硕大的城市里面就你一个人那种感觉，就像你牵着初恋的手走在城市边缘灯光昏暗但是没有说话的时候的感觉，一种旷世的孤独感，又像是对未来的心悸；<br>我坐在过道的位置，关掉耳机没有听歌，也没有玩手机，也没有眺望窗外，只是双目失神地对着前方发呆，迷失于人际。</p>
+<h3 id="安巢"><a href="#安巢" class="headerlink" title="安巢"></a>安巢</h3><p>回到宿舍果然就像回到主场<br>这里属于我的一切<br>都按照着我的心意安置着  </p>
+<p>_等我收拾完床和桌上的物品，可能就意味着，这个寒假除了一些想回味的东西之外，<br>就彻彻底底地过去了，再过几天，大概我便会忘了寒假我干了什么…__</p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
+        <tag>纪念</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>当我尝试添加一个看板娘...</title>
+    <url>/post/568dbe9c.html</url>
+    <content><![CDATA[<h3 id="为了再充实一下我的网站，我决定添加看板娘"><a href="#为了再充实一下我的网站，我决定添加看板娘" class="headerlink" title="为了再充实一下我的网站，我决定添加看板娘"></a>为了再充实一下我的网站，我决定添加看板娘</h3><hr>
+<p><em>然后就有了一个好消息和一个坏消息<br>好消息是：添加过程很成功，尽管命令窗口显示warning，最后还是完成运行<br>坏消息是：我添加的不是这位双马尾坐在桌子前的女孩吧！！！</em>  </p>
+<hr>
+<p>最初的想添加的是这只白色的猫猫  </p>
+<p><img src="https://img-blog.csdnimg.cn/20190213144100147.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdfMTIzX3p5,size_16,color_FFFFFF,t_70"><br>然后当我把代码照搬过来，所有操作按照网上一波操作之后<br>这…这.<br>rnm!退钱!<br><strong>然后当我按照别的地方找来的教程重新安装时，™回不去了，回不去了呜呜呜</strong><br>算了，这位看板娘也行了，凑合，毕竟比起重新删除live2d插件然后从头再来还可能面对一系列error和网页404，我还是选择安于现状，这样看来，双马尾突然亲切…  </p>
+<hr>
+<p>还没完，坏事情总是一步步到来：<br>加载速度很慢才出现看板娘我就忍了，但是手机的页面是这样的<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/161197/27/9187/177063/603f9fbdEf85e627f/9bf3e5581b4cde03.jpg"><br><br>这。。。唉，回去看了默认参数，150px*300px默认，我也不知道能不能直接改，我也不敢<br>相比而言，电脑的页面还算满意<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/159946/14/9718/140480/603fa0ebE874cb093/0e2d57d646eae9af.jpg"><br><br><br>那就这样吧，先凑合着，下次有空再来改一改~</p>
+]]></content>
+      <tags>
+        <tag>网站历程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>故乡的元宵</title>
+    <url>/post/74f3b207.html</url>
+    <content><![CDATA[<h3 id="元宵节时候的西南村"><a href="#元宵节时候的西南村" class="headerlink" title="元宵节时候的西南村"></a>元宵节时候的西南村</h3><p><em>现在才来写这篇文章，已经是第二天了，打了几把王者然后就过了十二点。。。</em>  </p>
+<p>今天的天气来看，还是比较有节日气息的<br>按照习俗，今天（或者说昨天）下午就开始祭祀（土话：拜），跟除夕的时候差不多<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/168711/32/8268/847332/60392042Ec77eb5a4/a26a3b6ca2bfff3c.jpg"><br>今天特意拍了很多张照片  </p>
+<p>晚餐会比平时要早一点吃，因为晚上大家都会出去各个地方拜，祠堂或者大大小小的庙<br>↓祠堂↓<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/142095/8/10840/255530/60391e43E3e68ec3f/1b66735436cf8b3f.jpg"><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/157796/40/8782/163406/60391e34E46f85eff/dfbf4be8187455ce.jpg"><br>祠堂里面有一座狮像，迷信说法：从它的头摸到尾，今年就会有好运气，每个去摸的人都会在旁边放上一些钱，虽然大部分都是一块钱，也算是图个吉祥  </p>
+<p>↓这是寨门外面的↓<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/161300/22/8249/206309/60391e3fEc5a2accb/a74f849ded33a15d.jpg"><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/155520/9/20009/190423/60391e3eEb53bbd06/b837ef2e86ab161b.jpg"><br>也是供人拜的地方  </p>
+<p>但是因为去年的疫情，今年还是少了很多活动和热情，人们对祭祀这种古老的活动的热情也在逐年消退，虽然也算是是迷信活动，但毕竟从小接触到大，我也不希望它会退出历史舞台。虽然我们没有漫天的灯笼，没有几年前那种热闹的活动，但是村民们对元宵节的祭祀依然看得很重，可能这也是从小到大的习惯吧</p>
+]]></content>
+      <tags>
+        <tag>纪念</tag>
+        <tag>故乡</tag>
+        <tag>节日</tag>
+        <tag>生活记录仪</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>有时候的头晕眼花，也可能带来意外收获</title>
+    <url>/post/79699ea9.html</url>
+    <content><![CDATA[<h3 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h3><p>这个标题属实起得很标题党，但是没办法我也不知道怎么说了，倒也不是发生了些什么特别有哲理的事物，就算是一篇日记了吧。  </p>
+<p>很普通的一个星期一，它普通就普通在它还是单周。  </p>
+<p>单周也很普通，不普通的就在于单周星期一的下午是不用上英语听力的。  </p>
+<p>然后恰好我就去上了…  </p>
+<p>直到我走进教室看到都不是本班的同学的时候，我还在一片哄笑声中找教室在哪里，最后得出的结论是：<strong>不用上课</strong>  </p>
+<hr>
+<h3 id="事情的样子就是这样"><a href="#事情的样子就是这样" class="headerlink" title="事情的样子就是这样"></a>事情的样子就是这样</h3><p>刚好是在下午两点，我并不想去图书馆。虽然我也没带书，但是就算是带了书去了图书馆我也是玩手机。<br>外面空气感觉很清新，是雨后的感觉啊，春天的气息在此刻绽放，无数鲜活的生命正在讴歌~<br>所以我决定，不如这个时间去走走，顺便重新感受一下我的大学。<br>在大学这么久，我还没有一次真正走在这里。大一的时候倒是常路过，但都是骑着单车来刷跑步历程，而且都是黄昏的时候。任何美景，黄昏跟正午都不能比。<br>顺便随手拍了几张照片<img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/159289/27/11719/270869/6046361bE2c05b420/6c8a1c706d3755c6.jpg"><br>不知道是第几次站在这里看着这个倒影，反正不会超过5次。其实在这边拍湖的照片，还是挺好看的，这点不得不承认，尽管我们都是视而不见。<br>↓这是在亭子里面拍的一张照片↓<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/158324/25/11046/376883/6046361eE917afcd1/799bda971706e88c.jpg"><br>如果挡掉后面的教学楼走廊和图书馆，我肯定不知道是哪里了。第一次到这个亭子，感觉还挺好，四周环水，风吹绿叶。<br><strong>如果不是今天看错时间来了教学楼，不知道我会是什么时候来到这个亭子，也不知道什么时候会在教学楼的另一面慢悠悠地边走边欣赏这些景色。<br>正如标题所说，歪打正着阴差阳错，是吧，就到了这里</strong></p>
+<hr>
+<h3 id="事情其实…"><a href="#事情其实…" class="headerlink" title="事情其实…"></a>事情其实…</h3><p><del>其实上不上课、早不早来教学楼无所谓，主要是喜欢出来走走，就是想看看风景感受大自然而已，睡不睡觉也无所谓，走错班也是去看看别人有没有在上课而已</del><br>哪有什么大哲理啊，我也只是个俗人</p>
+]]></content>
+      <tags>
+        <tag>生活记录仪</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>本网站正式投入使用</title>
+    <url>/post/b279ca09.html</url>
+    <content><![CDATA[<h1 id="这是我这三天以来，呕心沥血的成果了"><a href="#这是我这三天以来，呕心沥血的成果了" class="headerlink" title="这是我这三天以来，呕心沥血的成果了"></a>这是我这三天以来，呕心沥血的成果了</h1><p>这个网站的搭建，太费脑子了，主要是我压根不会服务器这些，也只能看得懂一点点的html代码，然而，做一个博客要用到的前端知识远不止这些。  </p>
+<h4 id="准备工作"><a href="#准备工作" class="headerlink" title="准备工作"></a>准备工作</h4><p>我一开始在知乎找的教程，后来才知道大错特错，可能碍于知乎的编辑，就没有那么详细，步骤都是跳着来的。导致我每次error的时候，都要再花上一两小时的时间去排查错误，这是很残酷的一点，CSDN上的教程都还行，起码评论区有人问题跟我一样，我才知道我是什么问题  </p>
+<blockquote>
+<ul>
+<li>Node.js  </li>
+<li>Git  </li>
+<li>Hexo   </li>
+</ul>
+</blockquote>
+<p>特别是Git，我一开始的指令全是打在cmd里面的，要不是看到是在文件夹里面Git，我可能还以为是我的电脑的问题，每次都是  </p>
+<blockquote>
+<p>系统找不到指定文件  </p>
+</blockquote>
+<p>后来我终于装好了Git之后，最难的其实是Hexo的安装吧，我在Git的cmd里面，像各大教程输入的指令，一半以上显示的都是 error 和 warning 。  </p>
+<h4 id="搭建完大概了之后"><a href="#搭建完大概了之后" class="headerlink" title="搭建完大概了之后"></a>搭建完大概了之后</h4><p>服务器正常上架，没错，就是那个最丑的Hexo模样，为了有一个好主题，我又是一顿找教程。事实证明，如果能看着视频学东西，绝对比看着字面的要强得多。<br>感谢b站<br>虽然我这次压根没在b站上搜教程（昨晚去b站搜了一下，果然Hexo换主题的教程没让我失望，可惜我已经踩着坑傻傻地闯进来了）</p>
+<h4 id="更换主题-二次装修"><a href="#更换主题-二次装修" class="headerlink" title="更换主题+二次装修"></a>更换主题+二次装修</h4><p>啊没错，又是在CSDN博客上面找的教程，然后…硬生生改了几小时没改好。本来加了几个.css到网页里面，结果直接以文本形式贴在了网页上，极其可悲，虽然后来终于解决了这个问题（本地端上传到Github上有点延迟导致的）<br>然后去b站找了一下主题配置方面的教程后我觉得我又行了，将会有更多更丰富的装饰更新，在几个工作日内  </p>
+<blockquote>
+<p>工作日：我可以自由地操作我的电脑的日子，节假日除外</p>
+</blockquote>
+<h4 id="最后的域名"><a href="#最后的域名" class="headerlink" title="最后的域名"></a>最后的域名</h4><p>昨天晚上，2021年2月22日，我在阿里云的域名购买并审核通过（终于），然后就解析上路了  </p>
+<blockquote>
+<p><a href="http://www.yiang.store/">www.yiang.store</a></p>
+</blockquote>
+<p>虽然解析个域名也耗费了很多精力，但是一直刷新过后，页面加载出来的适合时候，噢！！！！！  </p>
+<h4 id="发布文章"><a href="#发布文章" class="headerlink" title="发布文章"></a>发布文章</h4><p>这篇是我的第一篇文章in my blog。那篇hello word不是，那是系统自己生成的，我怎么可能会写hello word呢我又不是程序员<br>突然想起一个笑话</p>
+<blockquote>
+<p>一个程序员拿起了文房四宝<br>第一个写下的字就是<br>HelloWord</p>
+</blockquote>
+<p>然后写的文章还是得编辑markdown文件（.md）。<br>梦回 visual studio<br>md文件的编辑目前也只是刚接触，不过很容易，反正整一编辑器，啥不是一样写，写东西啊，难的还在人心  </p>
+<hr>
+<p>终于，我的博客搭建好了，其实现在拿还有人用这种方式表达自己呢，QQ动态也好，微信朋友圈也好，知乎也好，谁还不缺一个地方展示自己。<br>我也不缺。<br>现在我们哪会缺工具缺平台，缺的一直是没有写东西的习惯，或者是思考的能力<br>不过我也不是想要一个表现的机会吧，我只想要有个<a href="https://mp.weixin.qq.com/s/HmNhH1X8W77HAuKYnSPMGw">清净的地方</a></p>
+<p>至于以后我会写什么，还得看以后造化<br>不过，反正这是我自己的博客了，写什么还不是随心所欲，会看的人自然会看，不看的人不会打扰<br><em>这就是Yiang</em></p>
+]]></content>
+      <tags>
+        <tag>网站历程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Officially Join Minecraft!</title>
+    <url>/post/3901125.html</url>
+    <content><![CDATA[<h1 id="MINECRATF"><a href="#MINECRATF" class="headerlink" title="MINECRATF"></a>MINECRATF</h1><p>//很激动，因为就在刚刚，我终于斥巨资买下来Minecraft Java版的正版<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/158140/38/12944/137309/60518d22Ef89cb96b/2bcfddfee1099c9f.png"><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/171437/21/13104/1079522/60518d35Ef3ccba10/6c8aa2aa47af7809.png"></p>
+<p>七年了！我等了七年<br>我现在也是正版玩家了，虽然中国版也算正版，但是我不喜欢  </p>
+<p><strong>打开界面</strong><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/161529/16/13316/1213507/60518d6aE32f09d9b/77f8f947e707e001.png"><br>哎这才是MC的UI嘛，早些年一直玩的非正版，启动器也就是两行字/笑哭<br>时代变了，时代变了  </p>
+<hr>
+<p>至于为什么买正版，白嫖不香吗？  </p>
+<ol>
+<li>那我肯定是有原则的人了，说到白嫖，其实我也真的能白嫖到，从Java版的非官方启动器，到win10那个应用商店的基岩版我都能找到破解的方法，没错win10应用商店那个可以通过注册表和切断购买验证，使体验版变为“正版”，而且还能联机我是没想到。  </li>
+<li>但是没必要，一个我真正喜欢的东西，值得我去支持  </li>
+<li>我的世界这个游戏对我来说，已经真的不止一个游戏那么简单了，甚至让我收获到了很多别的东西，这个以后会专门开一篇文章来说。  </li>
+</ol>
+<p><strong>总的来说，买入MC不仅是因为它值得，更是因为对我来说意义重大，所以哪怕我能白嫖它，哪怕它就这么贵，我也会买，为了情怀都会买。反正现在不买迟早买，为了防止涨价，赶紧先买了再说。</strong><br>而且好久没玩我的世界了，趁着这个机会再过把瘾</p>
+]]></content>
+      <tags>
+        <tag>Minecraft</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>添加了，但是没有完全添加</title>
+    <url>/post/5f64f6b2.html</url>
+    <content><![CDATA[<h3 id="搜索栏"><a href="#搜索栏" class="headerlink" title="搜索栏"></a>搜索栏</h3><p>接上昨天说的，我又去学习了一下网站的优化，<br>然后我就想加一个搜索栏（本地搜索）<br>然后现在就是这样了<br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/162652/24/17253/288326/606c89bcEc98a99cc/1bc7a380f9723250.png"><br>如你所见，搜索栏确实是添加了，但是你会发现，啥也搜索不到！<br>找了很多教程、论坛，均无果，算了，当摆设吧。<br>你要说我没有搜索功能，那也不是，说我有，那也没有哈哈哈<br>添加了，但没有完全添加。</p>
+<h3 id="音乐播放"><a href="#音乐播放" class="headerlink" title="音乐播放"></a>音乐播放</h3><blockquote>
+<p><a href="https://blog.csdn.net/qq_46435629/article/details/106295515">https://blog.csdn.net/qq_46435629/article/details/106295515</a></p>
+</blockquote>
+<p>参考了这个网页教程，其实我也找了很多。<br>关键就在于：我的情况跟他们都不一样，我那个layout文件夹根本就没有生成啊！<br>官方文档对音乐也没有过多记载，难道就无缘了吗 Oh No</p>
+<h3 id="更多花里胡哨"><a href="#更多花里胡哨" class="headerlink" title="更多花里胡哨"></a>更多花里胡哨</h3><p>其实很简单，不是我不弄，而是弄不成啊根本<br>包括很多很多功能 很好看的样式、<br>要么代码根本记不住、<br>要么配置完直接404、<br>耶 诶~<br>那要我怎么去配置、</p>
+<hr>
+<p><strong>二更</strong><br>重新跑了一遍插件，重置了一下，奇迹般地可以使用了？！太意外了<br>照这么说，可能别的错误的地方我也知道怎么办了芜湖</p>
+]]></content>
+      <tags>
+        <tag>网站历程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>真正拥有一个云虚机了</title>
+    <url>/post/e6069c16.html</url>
+    <content><![CDATA[<h2 id="新发现"><a href="#新发现" class="headerlink" title="新发现"></a>新发现</h2><p>今天无意在b站看到一个教程啊，0元搭建网站的教程，其实这种教程我已经看过无数次了，但是这次我点进去了，因为这不是静态网页，而是一个有血有肉的，带着数据库的网站了。这就意味着或许可以借此机会探索一下：一个有血有肉的网站会是什么样的。<br>为什么说我这个博客网站不是有血有肉啊，因为它只有灵魂，什么意思呢就是我只是发表文章，最多改一下主题，加一些插件，但它永远是一个静态网站。好处是容易搭建，坏处是上限太低了。<br>一个普通的、能发表东西的网站确实是我的初衷，但这并不妨碍我继续探索云世界hhh  </p>
+<blockquote>
+<p>参照的视频<br><a href="https://www.bilibili.com/video/BV14z4y1277H">https://www.bilibili.com/video/BV14z4y1277H</a>  </p>
+</blockquote>
+<h3 id="服务器"><a href="#服务器" class="headerlink" title="服务器"></a>服务器</h3><p>虽然视频看得我很难受啊，但毕竟之前有基础了，我也是单刀直入，一路顺畅就开了一个云服务器啊，很棒了已经嘻嘻嘻，白嫖了一个云服务器<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/155644/18/15390/149766/604a1fb0E1191f60f/d6b59e258c6bcaaa.png" alt="白嫖了一个云服务器"><br><br><br>那剩下的就很容易了，跟在GitHub上差不多了，创建一个目录，然后放上博客框架，然后绑定域名；不同的是这里还要创建一个数据库用于存放博客里面的数据。<br>但是对比在GitHub搭建静态网页还是更容易，像我现在这样，发个文章还得</p>
+<blockquote>
+<p>hexo n 阿巴阿巴阿巴<br>hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</p>
+</blockquote>
+<p>多麻烦； </p>
+<p>而我在云虚机里面也随手搭建了一个博客网站，从上传源码到访问，就用了半小时而已，要知道当时搭建这个博客，用了整整一天。发表文章也容易，直接进入云控制台<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/162220/25/12024/41556/604a21d2E4655177e/a63ac6ce7ae9f81f.png"><br><br><br>是吧，总比我现在编辑md文件好（在vs里面编辑）<br>好处这么好为什么我不用呢？<br>因为我的服务器是免费的，随时可能被清理，而且限流（虽然我也用不完）。而收费的云服务器，一年几十到一百多，目前我也用不上，还是先GitHub狗着先哈哈哈。不过免费的服务器拿来测试还是不错的，这波感谢彩虹云了。  </p>
+<h3 id="域名"><a href="#域名" class="headerlink" title="域名"></a>域名</h3><p>第二个发现是，我买了一个域名，但我可以有很多二级域名啊，今天就在服务器上解析了一个二级域名</p>
+<blockquote>
+<p>hhy.yiang.store  </p>
+</blockquote>
+<p>那这样我就可以整很多个域名了呀，我又有一个伟大的想法了… </p>
+<hr>
+<p>今晚的发现值得我庆祝，或许以后我会接触更多的东西，开拓更多个人网站的东西呢，也说不定，因为我相信，<strong>进步是永无止境的！</strong></p>
+]]></content>
+      <tags>
+        <tag>网站历程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>简单地记下几笔</title>
+    <url>/post/c38acc06.html</url>
+    <content><![CDATA[<h3 id="这个夏天喝到橘子味汽水之前，先尝尝酸掉牙的柠檬味七喜？"><a href="#这个夏天喝到橘子味汽水之前，先尝尝酸掉牙的柠檬味七喜？" class="headerlink" title="这个夏天喝到橘子味汽水之前，先尝尝酸掉牙的柠檬味七喜？"></a>这个夏天喝到橘子味汽水之前，先尝尝酸掉牙的柠檬味七喜？</h3><blockquote>
+<p>如果说那个橘子味汽水般的少年只属于盛夏，那么我，多半只算是他生命里的一声尖锐而短暂的蝉鸣。  </p>
+</blockquote>
+<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/162133/33/15759/144293/60643411E5bd7fd4f/a6c98e9c501cc66e.jpg"></p>
+<hr>
+<h3 id="心动只予一刹、"><a href="#心动只予一刹、" class="headerlink" title="心动只予一刹、"></a>心动只予一刹、</h3><blockquote>
+<p>时光荏苒，再起风依是浪静</p>
+</blockquote>
+<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/173123/40/2115/96547/606af076E12066a71/4df8c96a6e2882ec.jpg"></p>
+<hr>
+<h3 id="第一次尝试炒饭"><a href="#第一次尝试炒饭" class="headerlink" title="第一次尝试炒饭"></a>第一次尝试炒饭</h3><blockquote>
+<p>真香  诶~</p>
+</blockquote>
+<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/161029/18/16645/224863/606af078E5c937411/6513f7dce58f962f.jpg"></p>
+<hr>
+<h3 id="夏日冷饮の保障"><a href="#夏日冷饮の保障" class="headerlink" title="夏日冷饮の保障"></a>夏日冷饮の保障</h3><blockquote>
+<p>就是花销有点大</p>
+</blockquote>
+<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/172588/38/2056/169580/606af079Ee9897b0e/08b5eed83f5f42f6.jpg"></p>
+<hr>
+<h3 id="Minecraft联机成功"><a href="#Minecraft联机成功" class="headerlink" title="Minecraft联机成功"></a>Minecraft联机成功</h3><blockquote>
+<p>恭喜你达成成就“<strong>有你的日子 不再孤单</strong>”  </p>
+</blockquote>
+<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/166180/30/16599/1664663/606aef57Ec49466d0/4cdfd7cdf6890c74.png"></p>
+<hr>
+<p><em>2021/03/29~2021/04/05</em></p>
+]]></content>
+      <tags>
+        <tag>生活记录仪</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>纪念一下第一次家教//即将经济独立</title>
+    <url>/post/3186204c.html</url>
+    <content><![CDATA[<h3 id="上了大学念了这么久，终于踏出一步"><a href="#上了大学念了这么久，终于踏出一步" class="headerlink" title="上了大学念了这么久，终于踏出一步"></a>上了大学念了这么久，终于踏出一步</h3><p>自从到了广州，总想着各种办法搞钱，但都没有大发展，有时候也是真的懒，或者没有准备好。像第一次那个想成人高考的家教英语，还没开始就结束了，一是没有太多准备，二是没有太大决心。<strong>但是现在是真的有决心去兼职，也开始认认真真去做了！</strong><br>其实昨天见面的时候还是挺紧张的，怕自己不够格，怕因为教不好被谴责，怕自己没有安排好时间耽误别的事情。但是有时候，头皮一硬，冲就完事了！一心想搞钱，谁也拦不住我了。</p>
+<h3 id="面基-amp-开始"><a href="#面基-amp-开始" class="headerlink" title="面基&amp;开始"></a>面基&amp;开始</h3><p>昨天（星期六）下午，就和跟我联系的叔叔联系见面，和我要教的学生以及他的妈妈。见了面就直接往饭店里进去了hhh受宠若惊【此处应该有图，但是不好意思拍照】，看这装修风格反正我是正常情况是吃不起。点了几个菜之后，边喝茶边聊天。叔叔阿姨都是广州本地人，很友好，可惜叔叔一直讲粤语，他的普通话就很广东，大部分还得靠阿姨翻译。我的学生也很好说话，跟我是同一年出生的，基本是没有任何沟通代沟的。所以整个过程还是挺舒心的！太棒了！<br>今天早上正式开讲。8点半差不多吧。七点多坐地铁过去的时候贼困，昨天两点才睡觉。。。紧急备了一下课，先给自己做做心理工作哈哈哈哈哈。<br>工作环境（学习环境）很好，在他们家的天台，光线充足还有微风，真不错，图来~<br><br><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/160949/15/12623/182066/604e1bdbE77a2df68/a09c7ff9fc871e1b.jpg"></p>
+<p>然后就讲了一个上午，感觉效率还是，我的学生悟性很高，我感觉这种上班环境+上班氛围，估计可以吊打大批社畜了。<br>十一点半多就结束，然后一起去吃了顿饭  </p>
+<p><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/164148/32/12490/114470/604e1cefEaeafcb08/27cbc03bd3d1a536.jpg">  </p>
+<p>依然不好意思拍照的我，悄悄咪咪拍了一张。<br>有工资还蹭饭，不愧是我。<br>不过嘛，跟陌生人一起吃饭还是有点拘谨的哈哈哈</p>
+<h3 id="经济独立"><a href="#经济独立" class="headerlink" title="经济独立"></a>经济独立</h3><p>按照我这个工作做下来，别说满足日常消费，我已经是人上人了。一想到有钱花了，坐个地铁回去路上傻笑了一路，还好戴着口罩哈哈哈哈哈哈哈。我就爱幻想这些美好的生活，以前是幻想，现在可能有能力来真正实现了。比如我可以买个吉他，买上所有以前想要但是太贵不敢买的，生活越来越有盼头了，真不错！<br>而且这个工作对我来说也意义重大（字面意思），不只是钱啊，这种类似社会实践的，其实平时接触的是比较少的，这也是个很好的机会来锻炼自己。钱不钱其实不重要啊，主要是想提升一下自己的能力嘛对吧<br><strong>2021.3.14</strong></p>
+]]></content>
+      <tags>
+        <tag>修仙之路</tag>
+        <tag>纪念</tag>
+        <tag>职业生涯</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>英语四级没落的背后，难道...</title>
+    <url>/post/58a1ebca.html</url>
+    <content><![CDATA[<h3 id="四级成绩战术分析"><a href="#四级成绩战术分析" class="headerlink" title="四级成绩战术分析"></a>四级成绩战术分析</h3><h4 id="考前"><a href="#考前" class="headerlink" title="考前"></a>考前</h4><p>我记得报考四级那几天，还是有信心冲刺一下的，每天看英语新闻，背诵英语单词，就好像回到了高三的时候一样，直到…<br>十二月的时候，活动太多是我没想到的，同乡会的活动，社团的活动等等，还有一些考试要准备。基本上到考四级前一个月开始，就已经准备放弃四级了<br>准确地说，那个时候没把四级放在眼里，可有可无那就肯定无了<br>而且准备的那段时间里，只有接触英语而没有接触英语考试相关的，到了考试前一秒，我连题型也不知道，导致我听力还没涂就要交卷  </p>
+<h4 id="考试的时候"><a href="#考试的时候" class="headerlink" title="考试的时候"></a>考试的时候</h4><p>一开始确实粗心大意的，先发了份有听力题和作文题的考卷，考试开始前不可翻阅，所以背面朝上。其实背面就写着作文题目的，还是标粗了出来，可惜当时的我根本没有去注意，我还真九九以为那里没有试题那段时间只能发呆。<br>等开始考试准备写作文的时候，我才开始构思我的作文。一落笔，尽是 <em>if</em> 判断句式。<br>关键是听力题，我秉承高中做题技巧，在试卷上分析一波答案并且勾勾圈圈，然而没有涂到答题卡上，然后听力考完直接交试卷我就？？？？？还好乱涂了一波，勉强拿了一百余分的听力  </p>
+<hr>
+<h4 id="战略部分析"><a href="#战略部分析" class="headerlink" title="战略部分析"></a>战略部分析</h4><blockquote>
+<p>想要考过四级</p>
+</blockquote>
+<ul>
+<li><strong>考前心态摆平</strong></li>
+<li><strong>考前清理时间残渣</strong></li>
+<li><strong>熟悉试题</strong></li>
+<li><strong>熟悉英语</strong></li>
+<li><strong>听力听不出来就是听不出来，直接过吧</strong><h4 id="下次一定得过啊"><a href="#下次一定得过啊" class="headerlink" title="下次一定得过啊"></a>下次一定得过啊</h4>↓附上第一次四级英语成绩↓<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/163076/8/8007/39293/60386646E23887dfc/6bb1605bf8eaa36c.jpg" alt="四级成绩"><h4 id="成绩分析"><a href="#成绩分析" class="headerlink" title="成绩分析"></a>成绩分析</h4></li>
+</ul>
+<ol>
+<li>听力：这波分析没有意义，只能说运气还挺好，乱涂还有103，下次记得涂他丫的！</li>
+<li>阅读：得再加强，虽然已经过了平均分，但是还得靠它来拉分，平时英语阅读还得再看看。</li>
+<li>作文：完全吹水篇，简直比我的博客还要水，简单来说就是词汇量和短语量供应不上，供不应求。翻译也差不多，中英双译平时还得多看。<br><br><br><br></li>
+</ol>
+<p><strong>下次加油，6月份英语4级没有430分，我直接…把这句话删了</strong></p>
+]]></content>
+      <tags>
+        <tag>修仙之路</tag>
+        <tag>分析</tag>
+      </tags>
+  </entry>
+</search>
