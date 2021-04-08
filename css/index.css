@@ -3995,7 +3995,7 @@ _:future,
 #rightside {
   position: fixed;
   right: -38px;
-  bottom: 40px;
+  bottom: 80px;
   z-index: 100;
   opacity: 0;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
