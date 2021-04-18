@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/post/4a17b156.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>About VPN and Darkweb</title>
     <url>/post/4e193be9.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="对未知的探索一直是我的强项"><a href="#对未知的探索一直是我的强项" class="headerlink" title="对未知的探索一直是我的强项"></a>对未知的探索一直是我的强项</h3><h4 id="VPN"><a href="#VPN" class="headerlink" title="VPN"></a>VPN</h4><p>一开始也是为了去翻墙下载一些Minecraft的东西（翻墙的网速比较乐观），当时为了一个window的翻墙软件也是费劲心思，结果，又是误打误撞地，在一个手机的翻墙软件上首次接触到了V2ray，然后就在手机网页端现在了压缩包传到电脑并连接节点，这是首次在电脑完成VPN连接。<br>后来那几个免费节点失效后，一段时间也不知道电脑怎么翻墙了。有段时间一直使用Google浏览插件去访问Google，但是由于仅限于Google果断被我淘汰。手机用一些软件翻墙后Google找到vpn-gate，电脑连接成功。但是速度贼慢而且只支持全局，其实前段时间V2ray是支持PAC的（忘了是不是这样叫），反正就是，连接国内网站就是按照普通方式连接，遇到墙外网站就是VPN连接那种。<br>直到后来接触Github，没错又是这个万能网站</p>
@@ -32,93 +18,39 @@
       </tags>
   </entry>
   <entry>
-    <title>域名邮箱</title>
-    <url>/post/10da8cd0.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>买了域名以来，对于各种云产品的接触都大了，突发奇想，想自己开一个域名邮箱。<br>QQ邮箱和网易邮箱大家都在用，对吧，我就想整个跟大伙不一样的，刚好我也有域名不是，如果能做一个独立邮箱出来，那肯定与众不同，关键是能多开几个小号，最近出来QQ邮箱和163邮箱外，已经没有多余的邮箱来注册一些东西了。  </p>
-<p><strong>日常整活，说干就干</strong>  </p>
-<ol>
-<li>邮箱肯定要有一个服务器，还要能长期运行不会说崩就崩的，那就肯定不会是我自己的服务器了；  </li>
-<li>QQ邮箱和网易邮箱也不支持绑定自己的域名了，排除；</li>
-<li>要开独立域名邮箱好像也得是企业邮箱，看了腾讯和网易，好家伙全是收费的，还那么贵；然后去了隔壁阿里云，果然有免费版嘿嘿嘿；</li>
-<li>创建完企业邮箱，绑定域名一气呵成（接触这么久，看到这些都觉得轻而易举了）</li>
-</ol>
-<p>所以现在，只要是 </p>
-<blockquote>
-<p><a href="mailto:&#88;&#x58;&#88;&#64;&#x79;&#x69;&#x61;&#110;&#x67;&#x2e;&#115;&#116;&#x6f;&#x72;&#101;">&#88;&#x58;&#88;&#64;&#x79;&#x69;&#x61;&#110;&#x67;&#x2e;&#115;&#116;&#x6f;&#x72;&#101;</a>  </p>
-</blockquote>
-<p>名字我还可以随便取</p>
-<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/176210/11/209/99760/605b6ae2Ef903c248/296560f863072a94.png" alt="阿里云企业邮箱"></p>
-<p>（上流）  </p>
-<p>而且，最多我可以创50个邮箱，邮箱名还可以随便起，以后不怕没有邮箱去注册东西了嚯嚯嚯<br>顺便说一句：阿里云，慈善公司啊，域名也是阿里云买的，要不是服务器用不上也买了，阿里云盘也好用，速度和容量吊打毒盘（内测用户偷笑）</p>
+    <title>Hello World</title>
+    <url>/post/4a17b156.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-      <tags>
-        <tag>花里胡哨</tag>
-      </tags>
   </entry>
   <entry>
-    <title>开放注册此域名的邮箱！</title>
-    <url>/post/bfc6ec80.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h2 id="开放注册-yiang-store-邮箱"><a href="#开放注册-yiang-store-邮箱" class="headerlink" title="开放注册 @yiang.store 邮箱"></a>开放注册 @yiang.store 邮箱</h2><hr>
-<p>经过了一晚上内测时间，测试的几个邮箱服务基本没有出现错误，内测通过<br>3.25发布公测  </p>
-<h3 id="这个邮箱有什么好处"><a href="#这个邮箱有什么好处" class="headerlink" title="这个邮箱有什么好处"></a>这个邮箱有什么好处</h3><ol>
-<li><p>支持靓号选择，如：</p>
-<blockquote>
-<ul>
-<li><a href="mailto:&#x31;&#x40;&#x79;&#105;&#x61;&#x6e;&#x67;&#x2e;&#x73;&#116;&#x6f;&#x72;&#x65;">&#x31;&#x40;&#x79;&#105;&#x61;&#x6e;&#x67;&#x2e;&#x73;&#116;&#x6f;&#x72;&#x65;</a></li>
-<li><a href="mailto:&#x68;&#x40;&#121;&#x69;&#97;&#x6e;&#x67;&#x2e;&#x73;&#x74;&#x6f;&#x72;&#x65;">&#x68;&#x40;&#121;&#x69;&#97;&#x6e;&#x67;&#x2e;&#x73;&#x74;&#x6f;&#x72;&#x65;</a></li>
-<li><a href="mailto:&#x36;&#x36;&#54;&#64;&#x79;&#x69;&#x61;&#x6e;&#x67;&#x2e;&#115;&#116;&#111;&#114;&#101;">&#x36;&#x36;&#54;&#64;&#x79;&#x69;&#x61;&#x6e;&#x67;&#x2e;&#115;&#116;&#111;&#114;&#101;</a>  </li>
-</ul>
-</blockquote>
-</li>
-<li><p>为你多一个不同的邮箱</p>
-<blockquote>
-<p>一开始我的初衷便是如此，QQ邮箱暴露了qq账号，好巧不巧注册网易邮箱的时候把手机号加进去了。所以想要注册一个不暴露社交账号的邮箱供使用以便不时之需。</p>
-</blockquote>
-</li>
-<li><p>添加一个小号</p>
-<blockquote>
-<p>邮箱注册其它东西的时候通常都会用到，如果你QQ邮箱和网易邮箱都已经注册，或许我可以帮到你呢</p>
-</blockquote>
-</li>
-<li><p><strong>添加邮箱很便捷</strong></p>
-<blockquote>
-<p>完美兼容手机“电子邮件”APP 以及 win10系统自带的“邮件”，<strong>使用邮箱和密码即可直接登录</strong></p>
-</blockquote>
-</li>
-<li><p>可以不绑定手机号，且只要记住密码，随处随时使用</p>
-<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3></li>
-</ol>
-<ul>
-<li>手机“电子邮件”APP 以及 win10系统自带的“邮件”，<strong>使用邮箱和密码即可直接登录</strong></li>
-<li>在别的邮箱中，添加一个“其它邮箱”，例如在QQ邮箱中添加一个<em><a href="mailto:&#97;&#x62;&#x61;&#98;&#97;&#x62;&#x61;&#64;&#121;&#105;&#x61;&#x6e;&#x67;&#46;&#x73;&#x74;&#111;&#x72;&#101;">&#97;&#x62;&#x61;&#98;&#97;&#x62;&#x61;&#64;&#121;&#105;&#x61;&#x6e;&#x67;&#46;&#x73;&#x74;&#111;&#x72;&#101;</a></em>，在“添加邮箱”页面，输入邮箱和密码后，会出现一个选择服务器以及端口，如下添加  <blockquote>
-<p>服务器：pop3.mxhichina.com<br>端口：995<br>SSL √  </p>
-</blockquote>
-</li>
-<li>正常情况下便可以添加了，如还需发件服务器，则如下<blockquote>
-<p>stmp服务器：stmp.mxhichina.com<br>端口：465<br>SSL √  </p>
-</blockquote>
-</li>
-</ul>
-<p><strong>但是值得注意的是，在正常邮箱软件中是不需要填写那么多的，一般输入邮箱地址和密码，默认状态下（或者pop3）便可登录邮箱！</strong></p>
-<h3 id="申请方法"><a href="#申请方法" class="headerlink" title="申请方法"></a>申请方法</h3><p>将邮箱名通过任何联系方式发送给我，若没有人注册过该邮箱，我便会为你创建一个邮箱<br>如：  </p>
-<blockquote>
-<p>你用QQ邮箱，发送“<em><a href="mailto:&#97;&#98;&#97;&#x62;&#97;&#98;&#97;&#x40;&#121;&#x69;&#97;&#110;&#x67;&#46;&#115;&#x74;&#111;&#x72;&#x65;">&#97;&#98;&#97;&#x62;&#97;&#98;&#97;&#x40;&#121;&#x69;&#97;&#110;&#x67;&#46;&#115;&#x74;&#111;&#x72;&#x65;</a></em>”到我的邮箱<em><a href="mailto:&#x68;&#104;&#121;&#x40;&#121;&#105;&#x61;&#x6e;&#x67;&#46;&#x73;&#116;&#x6f;&#114;&#101;">&#x68;&#104;&#121;&#x40;&#121;&#105;&#x61;&#x6e;&#x67;&#46;&#x73;&#116;&#x6f;&#114;&#101;</a></em>,我会在24小时内为你创建一个该地址的邮箱，并发回QQ邮箱告诉你邮箱已经创建好了  </p>
-</blockquote>
-<p>拿到邮箱后，可更改默认密码以便提高安全性  </p>
-<h3 id="更多相关信息"><a href="#更多相关信息" class="headerlink" title="更多相关信息"></a>更多相关信息</h3><ul>
-<li>该域名邮箱不会提供非常多名额供给注册；</li>
-<li>邮箱服务为阿里云的免费服务；</li>
-<li>邮箱隶属于阿里云企业邮箱，因此<strong>你可以使用邮箱登陆阿里云企业邮箱，然后在里面进行修改密码、绑定手机等操作</strong>；</li>
-<li>承诺5年内维护邮箱，理论上长期维护；</li>
-<li>在成功创建邮箱后，登录上去后回收到更多邮箱使用说明，例如上述的修改密码等；</li>
-<li>如发生不可抗力，会提前发送邮件说明和提醒；</li>
-<li>最终解释权归邮箱提供方我所有</li>
-</ul>
+    <title>名侦探柯南剧场版：绯色的子弹</title>
+    <url>/post/mztkn-m24.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="1"><a href="#1" class="headerlink" title="#1"></a>#1</h3><p>名侦探柯南剧场版？那必然得去电影院看啊。想当初那部绀青之拳，就在电影院看，那真是体验感拉满。没想到已经隔了快两年了。<br>剧场版片头那个主题曲一响，毛骨悚然哈哈哈，这种感觉只有电影院才有。就冲这感觉，电影的票钱就已经值了。  </p>
+<h4 id="对比M23绀青之拳"><a href="#对比M23绀青之拳" class="headerlink" title="对比M23绀青之拳"></a>对比M23绀青之拳</h4><p>绀青之拳在日本4月12日首映（不愧是1412），结果到国内已经是19年中秋。这个跨度之长，长到我已经忍不住去看了盗版/捂脸，盗版归盗版，上了车肯定补票，M23又去电影院看了一次，也是第一次在电影院看柯南剧场版。<br><strong>电影院还是不一样，这音效，这打击感，关键是片头奏乐的时候，芜湖~</strong><br>所以，以后每年柯南剧场版必在电影院看！<br>说回来，M24在日本的上映时间也受了疫情影响，足足晚了一年，不过还好这次大陆也同步上映，这波不亏，只晚了一年半。不过期待值肯定没有比绀青之拳高，毕竟基德sama出场，票房绝对是柯南剧场版里面最高的。<br>所以我在电影上映前几天才去翻了一下世良家族的情况，有一说一，对秀一、波本他们几个人并不是很感兴趣，而且主线上差点跟不上啊，红与黑系列就看得云里雾里的，还好观影前在b站搜了一下补补；</p>
+<h3 id="2"><a href="#2" class="headerlink" title="#2"></a>#2</h3><p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/164383/34/19663/110366/607c3c6bEd6683726/c8845f24d851ef73.jpg"><br>等着这个画面拍照，导致前面漏掉了一点点hhh，没关系反正还会再看几次的。</p>
+<h4 id="内容方面"><a href="#内容方面" class="headerlink" title="内容方面"></a>内容方面</h4><p>看柯南看久了的后遗症之看到餐车就知道这玩意绝对拿来运人，果不其然铃木会长就给推到厨房关了起来；<br>羽田秀吉的出现虽然知道不简单，但还是多多少少感觉这个人出现跟犯人有关（要不是去b站看柯南主线，我都不知道这个人是谁）  </p>
+<hr>
+<p><em>总的来说剧情方面还是很不错，围绕的几个线索都挺好，线索之一的：柯南对犯人的保护总感觉太少了，体现得很细节，虽然在很多宣传片都点到了这个，也提到了月光曲那集的故事，但电影里对这里的渲染还是差了一点点啊</em></p>
+<hr>
+<p>几个支线的剧情还是很棒，一边是FBI联合羽田秀吉拿下犯人，一边是柯南和世良纯子的列车脱险，一边是主角团对柯南的担心。<br>前面还一直在想怎么还没爆炸，后面“日本子弹”列车炸了足足两分钟那真是没有对不起柯南剧场版一年一炸的作风。<br>而对秀一，不，沖失·昴的狙击，就没有异次元的狙击手那么夸张了，简简单单开了两枪，《简简单单》<br>而关键时刻，世良纯子也知道了工藤新一身份（可能这是唯一和主线有关系的了吧）</p>
+<h3 id="3"><a href="#3" class="headerlink" title="#3"></a>#3</h3><p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/172098/6/5126/120450/607c3c6cE0e79f250/1ecf5842d4f877fd.jpg"></p>
+<p>居然有人这个时候走哈哈哈哈哈，内行人就看笑话了，看柯南不看到最后就没有灵魂。<br>虽然后面因为拿了个爆米花导致没有看见世良他妈（忘了叫啥）对秀一说了啥就有点亏。</p>
+<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/168751/4/19620/100716/607c3c6bE9efd1326/8488c1827c3c0b72.jpg"></p>
+<p><em>爆米花不错，下次不买</em></p>
+<h3 id="4"><a href="#4" class="headerlink" title="#4"></a>#4</h3><p>M25是安室透的主场，估计效果也不烂~<br>基德的剧场版不知道还要几年…<br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/164009/32/19521/12880/607c4cb3E41946121/55ea057bcbda88a2.jpg"></p>
 ]]></content>
       <tags>
-        <tag>探索</tag>
-        <tag>花里胡哨</tag>
-        <tag>修仙之路</tag>
+        <tag>名侦探柯南</tag>
+        <tag>生活记录仪</tag>
       </tags>
   </entry>
   <entry>
@@ -144,6 +76,96 @@
       <tags>
         <tag>探索</tag>
         <tag>网站历程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>域名邮箱</title>
+    <url>/post/10da8cd0.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>买了域名以来，对于各种云产品的接触都大了，突发奇想，想自己开一个域名邮箱。<br>QQ邮箱和网易邮箱大家都在用，对吧，我就想整个跟大伙不一样的，刚好我也有域名不是，如果能做一个独立邮箱出来，那肯定与众不同，关键是能多开几个小号，最近出来QQ邮箱和163邮箱外，已经没有多余的邮箱来注册一些东西了。  </p>
+<p><strong>日常整活，说干就干</strong>  </p>
+<ol>
+<li>邮箱肯定要有一个服务器，还要能长期运行不会说崩就崩的，那就肯定不会是我自己的服务器了；  </li>
+<li>QQ邮箱和网易邮箱也不支持绑定自己的域名了，排除；</li>
+<li>要开独立域名邮箱好像也得是企业邮箱，看了腾讯和网易，好家伙全是收费的，还那么贵；然后去了隔壁阿里云，果然有免费版嘿嘿嘿；</li>
+<li>创建完企业邮箱，绑定域名一气呵成（接触这么久，看到这些都觉得轻而易举了）</li>
+</ol>
+<p>所以现在，只要是 </p>
+<blockquote>
+<p><a href="mailto:&#88;&#x58;&#x58;&#x40;&#121;&#x69;&#97;&#110;&#x67;&#x2e;&#115;&#116;&#111;&#114;&#x65;">&#88;&#x58;&#x58;&#x40;&#121;&#x69;&#97;&#110;&#x67;&#x2e;&#115;&#116;&#111;&#114;&#x65;</a>  </p>
+</blockquote>
+<p>名字我还可以随便取</p>
+<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/176210/11/209/99760/605b6ae2Ef903c248/296560f863072a94.png" alt="阿里云企业邮箱"></p>
+<p>（上流）  </p>
+<p>而且，最多我可以创50个邮箱，邮箱名还可以随便起，以后不怕没有邮箱去注册东西了嚯嚯嚯<br>顺便说一句：阿里云，慈善公司啊，域名也是阿里云买的，要不是服务器用不上也买了，阿里云盘也好用，速度和容量吊打毒盘（内测用户偷笑）</p>
+]]></content>
+      <tags>
+        <tag>花里胡哨</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>开放注册此域名的邮箱！</title>
+    <url>/post/bfc6ec80.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h2 id="开放注册-yiang-store-邮箱"><a href="#开放注册-yiang-store-邮箱" class="headerlink" title="开放注册 @yiang.store 邮箱"></a>开放注册 @yiang.store 邮箱</h2><hr>
+<p>经过了一晚上内测时间，测试的几个邮箱服务基本没有出现错误，内测通过<br>3.25发布公测  </p>
+<h3 id="这个邮箱有什么好处"><a href="#这个邮箱有什么好处" class="headerlink" title="这个邮箱有什么好处"></a>这个邮箱有什么好处</h3><ol>
+<li><p>支持靓号选择，如：</p>
+<blockquote>
+<ul>
+<li><a href="mailto:&#x31;&#64;&#121;&#x69;&#x61;&#110;&#103;&#x2e;&#x73;&#x74;&#111;&#x72;&#101;">&#x31;&#64;&#121;&#x69;&#x61;&#110;&#103;&#x2e;&#x73;&#x74;&#111;&#x72;&#101;</a></li>
+<li><a href="mailto:&#x68;&#x40;&#x79;&#105;&#97;&#110;&#103;&#x2e;&#115;&#116;&#111;&#x72;&#x65;">&#x68;&#x40;&#x79;&#105;&#97;&#110;&#103;&#x2e;&#115;&#116;&#111;&#x72;&#x65;</a></li>
+<li><a href="mailto:&#54;&#x36;&#x36;&#x40;&#x79;&#105;&#x61;&#x6e;&#103;&#x2e;&#x73;&#x74;&#111;&#x72;&#101;">&#54;&#x36;&#x36;&#x40;&#x79;&#105;&#x61;&#x6e;&#103;&#x2e;&#x73;&#x74;&#111;&#x72;&#101;</a>  </li>
+</ul>
+</blockquote>
+</li>
+<li><p>为你多一个不同的邮箱</p>
+<blockquote>
+<p>一开始我的初衷便是如此，QQ邮箱暴露了qq账号，好巧不巧注册网易邮箱的时候把手机号加进去了。所以想要注册一个不暴露社交账号的邮箱供使用以便不时之需。</p>
+</blockquote>
+</li>
+<li><p>添加一个小号</p>
+<blockquote>
+<p>邮箱注册其它东西的时候通常都会用到，如果你QQ邮箱和网易邮箱都已经注册，或许我可以帮到你呢</p>
+</blockquote>
+</li>
+<li><p><strong>添加邮箱很便捷</strong></p>
+<blockquote>
+<p>完美兼容手机“电子邮件”APP 以及 win10系统自带的“邮件”，<strong>使用邮箱和密码即可直接登录</strong></p>
+</blockquote>
+</li>
+<li><p>可以不绑定手机号，且只要记住密码，随处随时使用</p>
+<h3 id="使用方法"><a href="#使用方法" class="headerlink" title="使用方法"></a>使用方法</h3></li>
+</ol>
+<ul>
+<li>手机“电子邮件”APP 以及 win10系统自带的“邮件”，<strong>使用邮箱和密码即可直接登录</strong></li>
+<li>在别的邮箱中，添加一个“其它邮箱”，例如在QQ邮箱中添加一个<em><a href="mailto:&#x61;&#x62;&#x61;&#98;&#x61;&#98;&#97;&#x40;&#121;&#105;&#x61;&#x6e;&#x67;&#x2e;&#115;&#x74;&#111;&#x72;&#101;">&#x61;&#x62;&#x61;&#98;&#x61;&#98;&#97;&#x40;&#121;&#105;&#x61;&#x6e;&#x67;&#x2e;&#115;&#x74;&#111;&#x72;&#101;</a></em>，在“添加邮箱”页面，输入邮箱和密码后，会出现一个选择服务器以及端口，如下添加  <blockquote>
+<p>服务器：pop3.mxhichina.com<br>端口：995<br>SSL √  </p>
+</blockquote>
+</li>
+<li>正常情况下便可以添加了，如还需发件服务器，则如下<blockquote>
+<p>stmp服务器：stmp.mxhichina.com<br>端口：465<br>SSL √  </p>
+</blockquote>
+</li>
+</ul>
+<p><strong>但是值得注意的是，在正常邮箱软件中是不需要填写那么多的，一般输入邮箱地址和密码，默认状态下（或者pop3）便可登录邮箱！</strong></p>
+<h3 id="申请方法"><a href="#申请方法" class="headerlink" title="申请方法"></a>申请方法</h3><p>将邮箱名通过任何联系方式发送给我，若没有人注册过该邮箱，我便会为你创建一个邮箱<br>如：  </p>
+<blockquote>
+<p>你用QQ邮箱，发送“<em><a href="mailto:&#x61;&#x62;&#x61;&#98;&#97;&#x62;&#x61;&#64;&#121;&#x69;&#x61;&#110;&#x67;&#x2e;&#x73;&#116;&#111;&#x72;&#101;">&#x61;&#x62;&#x61;&#98;&#97;&#x62;&#x61;&#64;&#121;&#x69;&#x61;&#110;&#x67;&#x2e;&#x73;&#116;&#111;&#x72;&#101;</a></em>”到我的邮箱<em><a href="mailto:&#104;&#104;&#121;&#64;&#121;&#105;&#97;&#x6e;&#103;&#x2e;&#x73;&#116;&#x6f;&#x72;&#101;">&#104;&#104;&#121;&#64;&#121;&#105;&#97;&#x6e;&#103;&#x2e;&#x73;&#116;&#x6f;&#x72;&#101;</a></em>,我会在24小时内为你创建一个该地址的邮箱，并发回QQ邮箱告诉你邮箱已经创建好了  </p>
+</blockquote>
+<p>拿到邮箱后，可更改默认密码以便提高安全性  </p>
+<h3 id="更多相关信息"><a href="#更多相关信息" class="headerlink" title="更多相关信息"></a>更多相关信息</h3><ul>
+<li>该域名邮箱不会提供非常多名额供给注册；</li>
+<li>邮箱服务为阿里云的免费服务；</li>
+<li>邮箱隶属于阿里云企业邮箱，因此<strong>你可以使用邮箱登陆阿里云企业邮箱，然后在里面进行修改密码、绑定手机等操作</strong>；</li>
+<li>承诺5年内维护邮箱，理论上长期维护；</li>
+<li>在成功创建邮箱后，登录上去后回收到更多邮箱使用说明，例如上述的修改密码等；</li>
+<li>如发生不可抗力，会提前发送邮件说明和提醒；</li>
+<li>最终解释权归邮箱提供方我所有</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>探索</tag>
+        <tag>花里胡哨</tag>
+        <tag>修仙之路</tag>
       </tags>
   </entry>
   <entry>
@@ -177,23 +199,6 @@
       </tags>
   </entry>
   <entry>
-    <title>有时候的头晕眼花，也可能带来意外收获</title>
-    <url>/post/79699ea9.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h3><p>这个标题属实起得很标题党，但是没办法我也不知道怎么说了，倒也不是发生了些什么特别有哲理的事物，就算是一篇日记了吧。  </p>
-<p>很普通的一个星期一，它普通就普通在它还是单周。  </p>
-<p>单周也很普通，不普通的就在于单周星期一的下午是不用上英语听力的。  </p>
-<p>然后恰好我就去上了…  </p>
-<p>直到我走进教室看到都不是本班的同学的时候，我还在一片哄笑声中找教室在哪里，最后得出的结论是：<strong>不用上课</strong>  </p>
-<hr>
-<h3 id="事情的样子就是这样"><a href="#事情的样子就是这样" class="headerlink" title="事情的样子就是这样"></a>事情的样子就是这样</h3><p>刚好是在下午两点，我并不想去图书馆。虽然我也没带书，但是就算是带了书去了图书馆我也是玩手机。<br>外面空气感觉很清新，是雨后的感觉啊，春天的气息在此刻绽放，无数鲜活的生命正在讴歌~<br>所以我决定，不如这个时间去走走，顺便重新感受一下我的大学。<br>在大学这么久，我还没有一次真正走在这里。大一的时候倒是常路过，但都是骑着单车来刷跑步历程，而且都是黄昏的时候。任何美景，黄昏跟正午都不能比。<br>顺便随手拍了几张照片<img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/159289/27/11719/270869/6046361bE2c05b420/6c8a1c706d3755c6.jpg"><br>不知道是第几次站在这里看着这个倒影，反正不会超过5次。其实在这边拍湖的照片，还是挺好看的，这点不得不承认，尽管我们都是视而不见。<br>↓这是在亭子里面拍的一张照片↓<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/158324/25/11046/376883/6046361eE917afcd1/799bda971706e88c.jpg"><br>如果挡掉后面的教学楼走廊和图书馆，我肯定不知道是哪里了。第一次到这个亭子，感觉还挺好，四周环水，风吹绿叶。<br><strong>如果不是今天看错时间来了教学楼，不知道我会是什么时候来到这个亭子，也不知道什么时候会在教学楼的另一面慢悠悠地边走边欣赏这些景色。<br>正如标题所说，歪打正着阴差阳错，是吧，就到了这里</strong></p>
-<hr>
-<h3 id="事情其实…"><a href="#事情其实…" class="headerlink" title="事情其实…"></a>事情其实…</h3><p><del>其实上不上课、早不早来教学楼无所谓，主要是喜欢出来走走，就是想看看风景感受大自然而已，睡不睡觉也无所谓，走错班也是去看看别人有没有在上课而已</del><br>哪有什么大哲理啊，我也只是个俗人</p>
-]]></content>
-      <tags>
-        <tag>生活记录仪</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>故乡的元宵</title>
     <url>/post/74f3b207.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="元宵节时候的西南村"><a href="#元宵节时候的西南村" class="headerlink" title="元宵节时候的西南村"></a>元宵节时候的西南村</h3><p><em>现在才来写这篇文章，已经是第二天了，打了几把王者然后就过了十二点。。。</em>  </p>
@@ -203,8 +208,8 @@
 <p>但是因为去年的疫情，今年还是少了很多活动和热情，人们对祭祀这种古老的活动的热情也在逐年消退，虽然也算是是迷信活动，但毕竟从小接触到大，我也不希望它会退出历史舞台。虽然我们没有漫天的灯笼，没有几年前那种热闹的活动，但是村民们对元宵节的祭祀依然看得很重，可能这也是从小到大的习惯吧</p>
 ]]></content>
       <tags>
-        <tag>纪念</tag>
         <tag>生活记录仪</tag>
+        <tag>纪念</tag>
         <tag>故乡</tag>
         <tag>节日</tag>
       </tags>
@@ -247,6 +252,23 @@
 ]]></content>
       <tags>
         <tag>网站历程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>有时候的头晕眼花，也可能带来意外收获</title>
+    <url>/post/79699ea9.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h3><p>这个标题属实起得很标题党，但是没办法我也不知道怎么说了，倒也不是发生了些什么特别有哲理的事物，就算是一篇日记了吧。  </p>
+<p>很普通的一个星期一，它普通就普通在它还是单周。  </p>
+<p>单周也很普通，不普通的就在于单周星期一的下午是不用上英语听力的。  </p>
+<p>然后恰好我就去上了…  </p>
+<p>直到我走进教室看到都不是本班的同学的时候，我还在一片哄笑声中找教室在哪里，最后得出的结论是：<strong>不用上课</strong>  </p>
+<hr>
+<h3 id="事情的样子就是这样"><a href="#事情的样子就是这样" class="headerlink" title="事情的样子就是这样"></a>事情的样子就是这样</h3><p>刚好是在下午两点，我并不想去图书馆。虽然我也没带书，但是就算是带了书去了图书馆我也是玩手机。<br>外面空气感觉很清新，是雨后的感觉啊，春天的气息在此刻绽放，无数鲜活的生命正在讴歌~<br>所以我决定，不如这个时间去走走，顺便重新感受一下我的大学。<br>在大学这么久，我还没有一次真正走在这里。大一的时候倒是常路过，但都是骑着单车来刷跑步历程，而且都是黄昏的时候。任何美景，黄昏跟正午都不能比。<br>顺便随手拍了几张照片<img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/159289/27/11719/270869/6046361bE2c05b420/6c8a1c706d3755c6.jpg"><br>不知道是第几次站在这里看着这个倒影，反正不会超过5次。其实在这边拍湖的照片，还是挺好看的，这点不得不承认，尽管我们都是视而不见。<br>↓这是在亭子里面拍的一张照片↓<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/158324/25/11046/376883/6046361eE917afcd1/799bda971706e88c.jpg"><br>如果挡掉后面的教学楼走廊和图书馆，我肯定不知道是哪里了。第一次到这个亭子，感觉还挺好，四周环水，风吹绿叶。<br><strong>如果不是今天看错时间来了教学楼，不知道我会是什么时候来到这个亭子，也不知道什么时候会在教学楼的另一面慢悠悠地边走边欣赏这些景色。<br>正如标题所说，歪打正着阴差阳错，是吧，就到了这里</strong></p>
+<hr>
+<h3 id="事情其实…"><a href="#事情其实…" class="headerlink" title="事情其实…"></a>事情其实…</h3><p><del>其实上不上课、早不早来教学楼无所谓，主要是喜欢出来走走，就是想看看风景感受大自然而已，睡不睡觉也无所谓，走错班也是去看看别人有没有在上课而已</del><br>哪有什么大哲理啊，我也只是个俗人</p>
+]]></content>
+      <tags>
+        <tag>生活记录仪</tag>
       </tags>
   </entry>
   <entry>
@@ -338,31 +360,6 @@
       </tags>
   </entry>
   <entry>
-    <title>真正拥有一个云虚机了</title>
-    <url>/post/e6069c16.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h2 id="新发现"><a href="#新发现" class="headerlink" title="新发现"></a>新发现</h2><p>今天无意在b站看到一个教程啊，0元搭建网站的教程，其实这种教程我已经看过无数次了，但是这次我点进去了，因为这不是静态网页，而是一个有血有肉的，带着数据库的网站了。这就意味着或许可以借此机会探索一下：一个有血有肉的网站会是什么样的。<br>为什么说我这个博客网站不是有血有肉啊，因为它只有灵魂，什么意思呢就是我只是发表文章，最多改一下主题，加一些插件，但它永远是一个静态网站。好处是容易搭建，坏处是上限太低了。<br>一个普通的、能发表东西的网站确实是我的初衷，但这并不妨碍我继续探索云世界hhh  </p>
-<blockquote>
-<p>参照的视频<br><a href="https://www.bilibili.com/video/BV14z4y1277H">https://www.bilibili.com/video/BV14z4y1277H</a>  </p>
-</blockquote>
-<h3 id="服务器"><a href="#服务器" class="headerlink" title="服务器"></a>服务器</h3><p>虽然视频看得我很难受啊，但毕竟之前有基础了，我也是单刀直入，一路顺畅就开了一个云服务器啊，很棒了已经嘻嘻嘻，白嫖了一个云服务器<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/155644/18/15390/149766/604a1fb0E1191f60f/d6b59e258c6bcaaa.png" alt="白嫖了一个云服务器"><br><br><br>那剩下的就很容易了，跟在GitHub上差不多了，创建一个目录，然后放上博客框架，然后绑定域名；不同的是这里还要创建一个数据库用于存放博客里面的数据。<br>但是对比在GitHub搭建静态网页还是更容易，像我现在这样，发个文章还得</p>
-<blockquote>
-<p>hexo n 阿巴阿巴阿巴<br>hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</p>
-</blockquote>
-<p>多麻烦； </p>
-<p>而我在云虚机里面也随手搭建了一个博客网站，从上传源码到访问，就用了半小时而已，要知道当时搭建这个博客，用了整整一天。发表文章也容易，直接进入云控制台<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/162220/25/12024/41556/604a21d2E4655177e/a63ac6ce7ae9f81f.png"><br><br><br>是吧，总比我现在编辑md文件好（在vs里面编辑）<br>好处这么好为什么我不用呢？<br>因为我的服务器是免费的，随时可能被清理，而且限流（虽然我也用不完）。而收费的云服务器，一年几十到一百多，目前我也用不上，还是先GitHub狗着先哈哈哈。不过免费的服务器拿来测试还是不错的，这波感谢彩虹云了。  </p>
-<h3 id="域名"><a href="#域名" class="headerlink" title="域名"></a>域名</h3><p>第二个发现是，我买了一个域名，但我可以有很多二级域名啊，今天就在服务器上解析了一个二级域名</p>
-<blockquote>
-<p>hhy.yiang.store  </p>
-</blockquote>
-<p>那这样我就可以整很多个域名了呀，我又有一个伟大的想法了… </p>
-<hr>
-<p>今晚的发现值得我庆祝，或许以后我会接触更多的东西，开拓更多个人网站的东西呢，也说不定，因为我相信，<strong>进步是永无止境的！</strong></p>
-]]></content>
-      <tags>
-        <tag>网站历程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>简单地记下几笔</title>
     <url>/post/c38acc06.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="这个夏天喝到橘子味汽水之前，先尝尝酸掉牙的柠檬味七喜？"><a href="#这个夏天喝到橘子味汽水之前，先尝尝酸掉牙的柠檬味七喜？" class="headerlink" title="这个夏天喝到橘子味汽水之前，先尝尝酸掉牙的柠檬味七喜？"></a>这个夏天喝到橘子味汽水之前，先尝尝酸掉牙的柠檬味七喜？</h3><blockquote>
@@ -394,6 +391,31 @@
 ]]></content>
       <tags>
         <tag>生活记录仪</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>真正拥有一个云虚机了</title>
+    <url>/post/e6069c16.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h2 id="新发现"><a href="#新发现" class="headerlink" title="新发现"></a>新发现</h2><p>今天无意在b站看到一个教程啊，0元搭建网站的教程，其实这种教程我已经看过无数次了，但是这次我点进去了，因为这不是静态网页，而是一个有血有肉的，带着数据库的网站了。这就意味着或许可以借此机会探索一下：一个有血有肉的网站会是什么样的。<br>为什么说我这个博客网站不是有血有肉啊，因为它只有灵魂，什么意思呢就是我只是发表文章，最多改一下主题，加一些插件，但它永远是一个静态网站。好处是容易搭建，坏处是上限太低了。<br>一个普通的、能发表东西的网站确实是我的初衷，但这并不妨碍我继续探索云世界hhh  </p>
+<blockquote>
+<p>参照的视频<br><a href="https://www.bilibili.com/video/BV14z4y1277H">https://www.bilibili.com/video/BV14z4y1277H</a>  </p>
+</blockquote>
+<h3 id="服务器"><a href="#服务器" class="headerlink" title="服务器"></a>服务器</h3><p>虽然视频看得我很难受啊，但毕竟之前有基础了，我也是单刀直入，一路顺畅就开了一个云服务器啊，很棒了已经嘻嘻嘻，白嫖了一个云服务器<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/155644/18/15390/149766/604a1fb0E1191f60f/d6b59e258c6bcaaa.png" alt="白嫖了一个云服务器"><br><br><br>那剩下的就很容易了，跟在GitHub上差不多了，创建一个目录，然后放上博客框架，然后绑定域名；不同的是这里还要创建一个数据库用于存放博客里面的数据。<br>但是对比在GitHub搭建静态网页还是更容易，像我现在这样，发个文章还得</p>
+<blockquote>
+<p>hexo n 阿巴阿巴阿巴<br>hexo clean &amp;&amp; hexo g &amp;&amp; hexo d</p>
+</blockquote>
+<p>多麻烦； </p>
+<p>而我在云虚机里面也随手搭建了一个博客网站，从上传源码到访问，就用了半小时而已，要知道当时搭建这个博客，用了整整一天。发表文章也容易，直接进入云控制台<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/162220/25/12024/41556/604a21d2E4655177e/a63ac6ce7ae9f81f.png"><br><br><br>是吧，总比我现在编辑md文件好（在vs里面编辑）<br>好处这么好为什么我不用呢？<br>因为我的服务器是免费的，随时可能被清理，而且限流（虽然我也用不完）。而收费的云服务器，一年几十到一百多，目前我也用不上，还是先GitHub狗着先哈哈哈。不过免费的服务器拿来测试还是不错的，这波感谢彩虹云了。  </p>
+<h3 id="域名"><a href="#域名" class="headerlink" title="域名"></a>域名</h3><p>第二个发现是，我买了一个域名，但我可以有很多二级域名啊，今天就在服务器上解析了一个二级域名</p>
+<blockquote>
+<p>hhy.yiang.store  </p>
+</blockquote>
+<p>那这样我就可以整很多个域名了呀，我又有一个伟大的想法了… </p>
+<hr>
+<p>今晚的发现值得我庆祝，或许以后我会接触更多的东西，开拓更多个人网站的东西呢，也说不定，因为我相信，<strong>进步是永无止境的！</strong></p>
+]]></content>
+      <tags>
+        <tag>网站历程</tag>
       </tags>
   </entry>
   <entry>
