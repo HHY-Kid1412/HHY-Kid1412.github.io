@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/post/4a17b156.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
-]]></content>
-  </entry>
-  <entry>
     <title>一个伟大的想法</title>
     <url>/post/26df040a.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/172114/26/6441/210493/60853310E93ed231f/d0a09efaefb7c81e.jpg"></p>
@@ -137,7 +123,7 @@
 </ol>
 <p>所以现在，只要是 </p>
 <blockquote>
-<p><a href="mailto:&#88;&#88;&#x58;&#64;&#121;&#105;&#x61;&#110;&#x67;&#46;&#115;&#116;&#x6f;&#114;&#x65;">&#88;&#88;&#x58;&#64;&#121;&#105;&#x61;&#110;&#x67;&#46;&#115;&#116;&#x6f;&#114;&#x65;</a>  </p>
+<p><a href="mailto:&#88;&#x58;&#88;&#64;&#121;&#x69;&#97;&#110;&#x67;&#46;&#x73;&#116;&#111;&#x72;&#101;">&#88;&#x58;&#88;&#64;&#121;&#x69;&#97;&#110;&#x67;&#46;&#x73;&#116;&#111;&#x72;&#101;</a>  </p>
 </blockquote>
 <p>名字我还可以随便取</p>
 <p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/176210/11/209/99760/605b6ae2Ef903c248/296560f863072a94.png" alt="阿里云企业邮箱"></p>
@@ -182,9 +168,9 @@
 <li><p>支持靓号选择，如：</p>
 <blockquote>
 <ul>
-<li><a href="mailto:&#x31;&#x40;&#121;&#x69;&#97;&#x6e;&#x67;&#x2e;&#115;&#x74;&#x6f;&#x72;&#x65;">&#x31;&#x40;&#121;&#x69;&#97;&#x6e;&#x67;&#x2e;&#115;&#x74;&#x6f;&#x72;&#x65;</a></li>
-<li><a href="mailto:&#104;&#64;&#121;&#x69;&#97;&#x6e;&#x67;&#46;&#115;&#x74;&#111;&#x72;&#101;">&#104;&#64;&#121;&#x69;&#97;&#x6e;&#x67;&#46;&#115;&#x74;&#111;&#x72;&#101;</a></li>
-<li><a href="mailto:&#x36;&#54;&#54;&#64;&#121;&#105;&#97;&#110;&#103;&#x2e;&#115;&#116;&#111;&#114;&#x65;">&#x36;&#54;&#54;&#64;&#121;&#105;&#97;&#110;&#103;&#x2e;&#115;&#116;&#111;&#114;&#x65;</a>  </li>
+<li><a href="mailto:&#x31;&#64;&#121;&#x69;&#x61;&#110;&#103;&#46;&#115;&#116;&#111;&#x72;&#x65;">&#x31;&#64;&#121;&#x69;&#x61;&#110;&#103;&#46;&#115;&#116;&#111;&#x72;&#x65;</a></li>
+<li><a href="mailto:&#x68;&#x40;&#x79;&#x69;&#97;&#x6e;&#x67;&#x2e;&#x73;&#x74;&#x6f;&#114;&#101;">&#x68;&#x40;&#x79;&#x69;&#97;&#x6e;&#x67;&#x2e;&#x73;&#x74;&#x6f;&#114;&#101;</a></li>
+<li><a href="mailto:&#54;&#x36;&#54;&#x40;&#x79;&#x69;&#97;&#x6e;&#x67;&#x2e;&#x73;&#116;&#x6f;&#x72;&#x65;">&#54;&#x36;&#54;&#x40;&#x79;&#x69;&#97;&#x6e;&#x67;&#x2e;&#x73;&#116;&#x6f;&#x72;&#x65;</a>  </li>
 </ul>
 </blockquote>
 </li>
@@ -208,7 +194,7 @@
 </ol>
 <ul>
 <li>手机“电子邮件”APP 以及 win10系统自带的“邮件”，<strong>使用邮箱和密码即可直接登录</strong></li>
-<li>在别的邮箱中，添加一个“其它邮箱”，例如在QQ邮箱中添加一个<em><a href="mailto:&#x61;&#98;&#97;&#98;&#x61;&#x62;&#97;&#x40;&#x79;&#x69;&#x61;&#x6e;&#x67;&#46;&#115;&#116;&#x6f;&#x72;&#x65;">&#x61;&#98;&#97;&#98;&#x61;&#x62;&#97;&#x40;&#x79;&#x69;&#x61;&#x6e;&#x67;&#46;&#115;&#116;&#x6f;&#x72;&#x65;</a></em>，在“添加邮箱”页面，输入邮箱和密码后，会出现一个选择服务器以及端口，如下添加  <blockquote>
+<li>在别的邮箱中，添加一个“其它邮箱”，例如在QQ邮箱中添加一个<em><a href="mailto:&#97;&#x62;&#x61;&#98;&#97;&#98;&#x61;&#64;&#x79;&#105;&#x61;&#x6e;&#103;&#x2e;&#115;&#x74;&#111;&#x72;&#x65;">&#97;&#x62;&#x61;&#98;&#97;&#98;&#x61;&#64;&#x79;&#105;&#x61;&#x6e;&#103;&#x2e;&#115;&#x74;&#111;&#x72;&#x65;</a></em>，在“添加邮箱”页面，输入邮箱和密码后，会出现一个选择服务器以及端口，如下添加  <blockquote>
 <p>服务器：pop3.mxhichina.com<br>端口：995<br>SSL √  </p>
 </blockquote>
 </li>
@@ -220,7 +206,7 @@
 <p><strong>但是值得注意的是，在正常邮箱软件中是不需要填写那么多的，一般输入邮箱地址和密码，默认状态下（或者pop3）便可登录邮箱！</strong></p>
 <h3 id="申请方法"><a href="#申请方法" class="headerlink" title="申请方法"></a>申请方法</h3><p>将邮箱名通过任何联系方式发送给我，若没有人注册过该邮箱，我便会为你创建一个邮箱<br>如：  </p>
 <blockquote>
-<p>你用QQ邮箱，发送“<em><a href="mailto:&#97;&#98;&#97;&#98;&#x61;&#98;&#x61;&#64;&#121;&#x69;&#97;&#x6e;&#103;&#x2e;&#115;&#x74;&#111;&#x72;&#101;">&#97;&#98;&#97;&#98;&#x61;&#98;&#x61;&#64;&#121;&#x69;&#97;&#x6e;&#103;&#x2e;&#115;&#x74;&#111;&#x72;&#101;</a></em>”到我的邮箱<em><a href="mailto:&#104;&#x68;&#121;&#64;&#121;&#105;&#97;&#x6e;&#103;&#46;&#115;&#x74;&#x6f;&#114;&#101;">&#104;&#x68;&#121;&#64;&#121;&#105;&#97;&#x6e;&#103;&#46;&#115;&#x74;&#x6f;&#114;&#101;</a></em>,我会在24小时内为你创建一个该地址的邮箱，并发回QQ邮箱告诉你邮箱已经创建好了  </p>
+<p>你用QQ邮箱，发送“<em><a href="mailto:&#x61;&#x62;&#x61;&#98;&#97;&#x62;&#x61;&#x40;&#x79;&#x69;&#x61;&#110;&#103;&#46;&#115;&#x74;&#111;&#114;&#101;">&#x61;&#x62;&#x61;&#98;&#97;&#x62;&#x61;&#x40;&#x79;&#x69;&#x61;&#110;&#103;&#46;&#115;&#x74;&#111;&#114;&#101;</a></em>”到我的邮箱<em><a href="mailto:&#x68;&#104;&#x79;&#x40;&#x79;&#105;&#x61;&#x6e;&#x67;&#x2e;&#x73;&#116;&#x6f;&#114;&#101;">&#x68;&#104;&#x79;&#x40;&#x79;&#105;&#x61;&#x6e;&#x67;&#x2e;&#x73;&#116;&#x6f;&#114;&#101;</a></em>,我会在24小时内为你创建一个该地址的邮箱，并发回QQ邮箱告诉你邮箱已经创建好了  </p>
 </blockquote>
 <p>拿到邮箱后，可更改默认密码以便提高安全性  </p>
 <h3 id="更多相关信息"><a href="#更多相关信息" class="headerlink" title="更多相关信息"></a>更多相关信息</h3><ul>
@@ -412,6 +398,28 @@
 ]]></content>
       <tags>
         <tag>纪念</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>深夜两点的混乱大脑</title>
+    <url>/post/8b67eab4.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>心烦意乱  </p>
+<p>听他的，别贱  </p>
+<p>过段时间冷静可能就好了  </p>
+<p>好像无药可救硬熬的样子  </p>
+<p>我连自己在想什么都不知道  </p>
+<p>也许存在平行时空./错乱  </p>
+<p>快睡着吧不要再想快给我睡！  </p>
+<p>状态-1 -1 -1  </p>
+<p>不能成为自己讨厌的人，但也好讨厌现在这样  </p>
+<p>是不是不管怎么选都会后悔  </p>
+<hr>
+<p>每个月总有那么十几天是这样的，烦死了</p>
+<hr>
+<p>微信换了个新头像，我要丧一阵子了<br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/180542/40/2710/95925/6094e135E43a3bd3d/a826e934b71ca8f8.jpg"></p>
+]]></content>
+      <tags>
+        <tag>心情</tag>
       </tags>
   </entry>
   <entry>
