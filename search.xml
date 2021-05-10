@@ -129,30 +129,6 @@
       </tags>
   </entry>
   <entry>
-    <title>域名邮箱</title>
-    <url>/post/10da8cd0.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>买了域名以来，对于各种云产品的接触都大了，突发奇想，想自己开一个域名邮箱。<br>QQ邮箱和网易邮箱大家都在用，对吧，我就想整个跟大伙不一样的，刚好我也有域名不是，如果能做一个独立邮箱出来，那肯定与众不同，关键是能多开几个小号，最近出来QQ邮箱和163邮箱外，已经没有多余的邮箱来注册一些东西了。  </p>
-<p><strong>日常整活，说干就干</strong>  </p>
-<ol>
-<li>邮箱肯定要有一个服务器，还要能长期运行不会说崩就崩的，那就肯定不会是我自己的服务器了；  </li>
-<li>QQ邮箱和网易邮箱也不支持绑定自己的域名了，排除；</li>
-<li>要开独立域名邮箱好像也得是企业邮箱，看了腾讯和网易，好家伙全是收费的，还那么贵；然后去了隔壁阿里云，果然有免费版嘿嘿嘿；</li>
-<li>创建完企业邮箱，绑定域名一气呵成（接触这么久，看到这些都觉得轻而易举了）</li>
-</ol>
-<p>所以现在，只要是 </p>
-<blockquote>
-<p><a href="mailto:&#x58;&#x58;&#x58;&#64;&#121;&#x69;&#x61;&#x6e;&#103;&#46;&#115;&#x74;&#111;&#114;&#101;">&#x58;&#x58;&#x58;&#64;&#121;&#x69;&#x61;&#x6e;&#103;&#46;&#115;&#x74;&#111;&#114;&#101;</a>  </p>
-</blockquote>
-<p>名字我还可以随便取</p>
-<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/176210/11/209/99760/605b6ae2Ef903c248/296560f863072a94.png" alt="阿里云企业邮箱"></p>
-<p>（上流）  </p>
-<p>而且，最多我可以创50个邮箱，邮箱名还可以随便起，以后不怕没有邮箱去注册东西了嚯嚯嚯<br>顺便说一句：阿里云，慈善公司啊，域名也是阿里云买的，要不是服务器用不上也买了，阿里云盘也好用，速度和容量吊打毒盘（内测用户偷笑）</p>
-]]></content>
-      <tags>
-        <tag>花里胡哨</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>好久没来配置网站了~</title>
     <url>/post/4e2b5de5.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="我回来啦！"><a href="#我回来啦！" class="headerlink" title="我回来啦！"></a>我回来啦！</h3><p>已经有一个多星期没有发文章了在这个网站，上个星期也比较多事情，加上一些心理上的压力，导致很久没打开网站看看。今晚刚好发了几张图片之后，还是感觉网站太多瑕疵了。果然我还是那么懒，从一开始网站投入使用后就很少理过它了。<br>我本来想加上评论区和搜索功能，结果在CSDN找了半天，啥有用的也没找到，所以我只好去找这个主题的官方文档，一开始还是很抗拒的，毕竟官方这种东西嘛，一般会比较难懂。不过还好，butterfly的作者是台湾的好像（还是香港来着），起码语言上没有啥代沟，所以今晚就着官方文档，修修补补把网站优化了一些。</p>
@@ -178,6 +154,30 @@
       </tags>
   </entry>
   <entry>
+    <title>域名邮箱</title>
+    <url>/post/10da8cd0.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>买了域名以来，对于各种云产品的接触都大了，突发奇想，想自己开一个域名邮箱。<br>QQ邮箱和网易邮箱大家都在用，对吧，我就想整个跟大伙不一样的，刚好我也有域名不是，如果能做一个独立邮箱出来，那肯定与众不同，关键是能多开几个小号，最近出来QQ邮箱和163邮箱外，已经没有多余的邮箱来注册一些东西了。  </p>
+<p><strong>日常整活，说干就干</strong>  </p>
+<ol>
+<li>邮箱肯定要有一个服务器，还要能长期运行不会说崩就崩的，那就肯定不会是我自己的服务器了；  </li>
+<li>QQ邮箱和网易邮箱也不支持绑定自己的域名了，排除；</li>
+<li>要开独立域名邮箱好像也得是企业邮箱，看了腾讯和网易，好家伙全是收费的，还那么贵；然后去了隔壁阿里云，果然有免费版嘿嘿嘿；</li>
+<li>创建完企业邮箱，绑定域名一气呵成（接触这么久，看到这些都觉得轻而易举了）</li>
+</ol>
+<p>所以现在，只要是 </p>
+<blockquote>
+<p><a href="mailto:&#x58;&#88;&#88;&#64;&#x79;&#x69;&#x61;&#110;&#103;&#x2e;&#x73;&#116;&#x6f;&#114;&#x65;">&#x58;&#88;&#88;&#64;&#x79;&#x69;&#x61;&#110;&#103;&#x2e;&#x73;&#116;&#x6f;&#114;&#x65;</a>  </p>
+</blockquote>
+<p>名字我还可以随便取</p>
+<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/176210/11/209/99760/605b6ae2Ef903c248/296560f863072a94.png" alt="阿里云企业邮箱"></p>
+<p>（上流）  </p>
+<p>而且，最多我可以创50个邮箱，邮箱名还可以随便起，以后不怕没有邮箱去注册东西了嚯嚯嚯<br>顺便说一句：阿里云，慈善公司啊，域名也是阿里云买的，要不是服务器用不上也买了，阿里云盘也好用，速度和容量吊打毒盘（内测用户偷笑）</p>
+]]></content>
+      <tags>
+        <tag>花里胡哨</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>开放注册此域名的邮箱！</title>
     <url>/post/bfc6ec80.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h2 id="开放注册-yiang-store-邮箱"><a href="#开放注册-yiang-store-邮箱" class="headerlink" title="开放注册 @yiang.store 邮箱"></a>开放注册 @yiang.store 邮箱</h2><hr>
@@ -186,9 +186,9 @@
 <li><p>支持靓号选择，如：</p>
 <blockquote>
 <ul>
-<li><a href="mailto:&#x31;&#64;&#121;&#105;&#97;&#x6e;&#x67;&#x2e;&#115;&#x74;&#111;&#x72;&#101;">&#x31;&#64;&#121;&#105;&#97;&#x6e;&#x67;&#x2e;&#115;&#x74;&#111;&#x72;&#101;</a></li>
-<li><a href="mailto:&#104;&#x40;&#121;&#x69;&#x61;&#110;&#103;&#46;&#115;&#x74;&#x6f;&#x72;&#x65;">&#104;&#x40;&#121;&#x69;&#x61;&#110;&#103;&#46;&#115;&#x74;&#x6f;&#x72;&#x65;</a></li>
-<li><a href="mailto:&#x36;&#54;&#54;&#64;&#x79;&#105;&#x61;&#110;&#103;&#46;&#x73;&#x74;&#111;&#114;&#x65;">&#x36;&#54;&#54;&#64;&#x79;&#105;&#x61;&#110;&#103;&#46;&#x73;&#x74;&#111;&#114;&#x65;</a>  </li>
+<li><a href="mailto:&#x31;&#64;&#121;&#x69;&#97;&#x6e;&#103;&#46;&#x73;&#116;&#111;&#x72;&#101;">&#x31;&#64;&#121;&#x69;&#97;&#x6e;&#103;&#46;&#x73;&#116;&#111;&#x72;&#101;</a></li>
+<li><a href="mailto:&#104;&#64;&#x79;&#x69;&#97;&#x6e;&#x67;&#x2e;&#115;&#116;&#111;&#114;&#x65;">&#104;&#64;&#x79;&#x69;&#97;&#x6e;&#x67;&#x2e;&#115;&#116;&#111;&#114;&#x65;</a></li>
+<li><a href="mailto:&#x36;&#x36;&#x36;&#64;&#121;&#105;&#97;&#x6e;&#103;&#46;&#x73;&#x74;&#111;&#114;&#x65;">&#x36;&#x36;&#x36;&#64;&#121;&#105;&#97;&#x6e;&#103;&#46;&#x73;&#x74;&#111;&#114;&#x65;</a>  </li>
 </ul>
 </blockquote>
 </li>
@@ -212,7 +212,7 @@
 </ol>
 <ul>
 <li>手机“电子邮件”APP 以及 win10系统自带的“邮件”，<strong>使用邮箱和密码即可直接登录</strong></li>
-<li>在别的邮箱中，添加一个“其它邮箱”，例如在QQ邮箱中添加一个<em><a href="mailto:&#97;&#98;&#x61;&#98;&#x61;&#x62;&#x61;&#64;&#121;&#105;&#97;&#x6e;&#x67;&#46;&#115;&#116;&#111;&#x72;&#x65;">&#97;&#98;&#x61;&#98;&#x61;&#x62;&#x61;&#64;&#121;&#105;&#97;&#x6e;&#x67;&#46;&#115;&#116;&#111;&#x72;&#x65;</a></em>，在“添加邮箱”页面，输入邮箱和密码后，会出现一个选择服务器以及端口，如下添加  <blockquote>
+<li>在别的邮箱中，添加一个“其它邮箱”，例如在QQ邮箱中添加一个<em><a href="mailto:&#x61;&#x62;&#x61;&#98;&#x61;&#x62;&#97;&#x40;&#121;&#x69;&#x61;&#110;&#103;&#x2e;&#x73;&#x74;&#x6f;&#x72;&#x65;">&#x61;&#x62;&#x61;&#98;&#x61;&#x62;&#97;&#x40;&#121;&#x69;&#x61;&#110;&#103;&#x2e;&#x73;&#x74;&#x6f;&#x72;&#x65;</a></em>，在“添加邮箱”页面，输入邮箱和密码后，会出现一个选择服务器以及端口，如下添加  <blockquote>
 <p>服务器：pop3.mxhichina.com<br>端口：995<br>SSL √  </p>
 </blockquote>
 </li>
@@ -224,7 +224,7 @@
 <p><strong>但是值得注意的是，在正常邮箱软件中是不需要填写那么多的，一般输入邮箱地址和密码，默认状态下（或者pop3）便可登录邮箱！</strong></p>
 <h3 id="申请方法"><a href="#申请方法" class="headerlink" title="申请方法"></a>申请方法</h3><p>将邮箱名通过任何联系方式发送给我，若没有人注册过该邮箱，我便会为你创建一个邮箱<br>如：  </p>
 <blockquote>
-<p>你用QQ邮箱，发送“<em><a href="mailto:&#97;&#x62;&#x61;&#98;&#x61;&#98;&#97;&#64;&#121;&#x69;&#97;&#x6e;&#103;&#x2e;&#x73;&#116;&#111;&#114;&#101;">&#97;&#x62;&#x61;&#98;&#x61;&#98;&#97;&#64;&#121;&#x69;&#97;&#x6e;&#103;&#x2e;&#x73;&#116;&#111;&#114;&#101;</a></em>”到我的邮箱<em><a href="mailto:&#104;&#x68;&#121;&#64;&#x79;&#x69;&#x61;&#110;&#103;&#x2e;&#x73;&#116;&#x6f;&#x72;&#x65;">&#104;&#x68;&#121;&#64;&#x79;&#x69;&#x61;&#110;&#103;&#x2e;&#x73;&#116;&#x6f;&#x72;&#x65;</a></em>,我会在24小时内为你创建一个该地址的邮箱，并发回QQ邮箱告诉你邮箱已经创建好了  </p>
+<p>你用QQ邮箱，发送“<em><a href="mailto:&#x61;&#x62;&#x61;&#98;&#97;&#98;&#x61;&#x40;&#x79;&#x69;&#97;&#110;&#x67;&#x2e;&#115;&#x74;&#111;&#114;&#101;">&#x61;&#x62;&#x61;&#98;&#97;&#98;&#x61;&#x40;&#x79;&#x69;&#97;&#110;&#x67;&#x2e;&#115;&#x74;&#111;&#114;&#101;</a></em>”到我的邮箱<em><a href="mailto:&#104;&#104;&#x79;&#x40;&#121;&#105;&#97;&#110;&#x67;&#46;&#115;&#x74;&#111;&#x72;&#x65;">&#104;&#104;&#x79;&#x40;&#121;&#105;&#97;&#110;&#x67;&#46;&#115;&#x74;&#111;&#x72;&#x65;</a></em>,我会在24小时内为你创建一个该地址的邮箱，并发回QQ邮箱告诉你邮箱已经创建好了  </p>
 </blockquote>
 <p>拿到邮箱后，可更改默认密码以便提高安全性  </p>
 <h3 id="更多相关信息"><a href="#更多相关信息" class="headerlink" title="更多相关信息"></a>更多相关信息</h3><ul>
@@ -274,22 +274,6 @@
       </tags>
   </entry>
   <entry>
-    <title>故乡的元宵</title>
-    <url>/post/74f3b207.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="元宵节时候的西南村"><a href="#元宵节时候的西南村" class="headerlink" title="元宵节时候的西南村"></a>元宵节时候的西南村</h3><p><em>现在才来写这篇文章，已经是第二天了，打了几把王者然后就过了十二点。。。</em>  </p>
-<p>今天的天气来看，还是比较有节日气息的<br>按照习俗，今天（或者说昨天）下午就开始祭祀（土话：拜），跟除夕的时候差不多<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/168711/32/8268/847332/60392042Ec77eb5a4/a26a3b6ca2bfff3c.jpg"><br>今天特意拍了很多张照片  </p>
-<p>晚餐会比平时要早一点吃，因为晚上大家都会出去各个地方拜，祠堂或者大大小小的庙<br>↓祠堂↓<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/142095/8/10840/255530/60391e43E3e68ec3f/1b66735436cf8b3f.jpg"><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/157796/40/8782/163406/60391e34E46f85eff/dfbf4be8187455ce.jpg"><br>祠堂里面有一座狮像，迷信说法：从它的头摸到尾，今年就会有好运气，每个去摸的人都会在旁边放上一些钱，虽然大部分都是一块钱，也算是图个吉祥  </p>
-<p>↓这是寨门外面的↓<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/161300/22/8249/206309/60391e3fEc5a2accb/a74f849ded33a15d.jpg"><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/155520/9/20009/190423/60391e3eEb53bbd06/b837ef2e86ab161b.jpg"><br>也是供人拜的地方  </p>
-<p>但是因为去年的疫情，今年还是少了很多活动和热情，人们对祭祀这种古老的活动的热情也在逐年消退，虽然也算是是迷信活动，但毕竟从小接触到大，我也不希望它会退出历史舞台。虽然我们没有漫天的灯笼，没有几年前那种热闹的活动，但是村民们对元宵节的祭祀依然看得很重，可能这也是从小到大的习惯吧</p>
-]]></content>
-      <tags>
-        <tag>生活记录仪</tag>
-        <tag>纪念</tag>
-        <tag>故乡</tag>
-        <tag>节日</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>有时候的头晕眼花，也可能带来意外收获</title>
     <url>/post/79699ea9.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h3><p>这个标题属实起得很标题党，但是没办法我也不知道怎么说了，倒也不是发生了些什么特别有哲理的事物，就算是一篇日记了吧。  </p>
@@ -304,6 +288,22 @@
 ]]></content>
       <tags>
         <tag>生活记录仪</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>故乡的元宵</title>
+    <url>/post/74f3b207.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="元宵节时候的西南村"><a href="#元宵节时候的西南村" class="headerlink" title="元宵节时候的西南村"></a>元宵节时候的西南村</h3><p><em>现在才来写这篇文章，已经是第二天了，打了几把王者然后就过了十二点。。。</em>  </p>
+<p>今天的天气来看，还是比较有节日气息的<br>按照习俗，今天（或者说昨天）下午就开始祭祀（土话：拜），跟除夕的时候差不多<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/168711/32/8268/847332/60392042Ec77eb5a4/a26a3b6ca2bfff3c.jpg"><br>今天特意拍了很多张照片  </p>
+<p>晚餐会比平时要早一点吃，因为晚上大家都会出去各个地方拜，祠堂或者大大小小的庙<br>↓祠堂↓<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/142095/8/10840/255530/60391e43E3e68ec3f/1b66735436cf8b3f.jpg"><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/157796/40/8782/163406/60391e34E46f85eff/dfbf4be8187455ce.jpg"><br>祠堂里面有一座狮像，迷信说法：从它的头摸到尾，今年就会有好运气，每个去摸的人都会在旁边放上一些钱，虽然大部分都是一块钱，也算是图个吉祥  </p>
+<p>↓这是寨门外面的↓<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/161300/22/8249/206309/60391e3fEc5a2accb/a74f849ded33a15d.jpg"><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/155520/9/20009/190423/60391e3eEb53bbd06/b837ef2e86ab161b.jpg"><br>也是供人拜的地方  </p>
+<p>但是因为去年的疫情，今年还是少了很多活动和热情，人们对祭祀这种古老的活动的热情也在逐年消退，虽然也算是是迷信活动，但毕竟从小接触到大，我也不希望它会退出历史舞台。虽然我们没有漫天的灯笼，没有几年前那种热闹的活动，但是村民们对元宵节的祭祀依然看得很重，可能这也是从小到大的习惯吧</p>
+]]></content>
+      <tags>
+        <tag>生活记录仪</tag>
+        <tag>纪念</tag>
+        <tag>故乡</tag>
+        <tag>节日</tag>
       </tags>
   </entry>
   <entry>
@@ -344,25 +344,6 @@
 ]]></content>
       <tags>
         <tag>网站历程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Officially Join Minecraft!</title>
-    <url>/post/3901125.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h1 id="MINECRATF"><a href="#MINECRATF" class="headerlink" title="MINECRATF"></a>MINECRATF</h1><p>//很激动，因为就在刚刚，我终于斥巨资买下来Minecraft Java版的正版<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/158140/38/12944/137309/60518d22Ef89cb96b/2bcfddfee1099c9f.png"><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/171437/21/13104/1079522/60518d35Ef3ccba10/6c8aa2aa47af7809.png"></p>
-<p>七年了！我等了七年<br>我现在也是正版玩家了，虽然中国版也算正版，但是我不喜欢  </p>
-<p><strong>打开界面</strong><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/161529/16/13316/1213507/60518d6aE32f09d9b/77f8f947e707e001.png"><br>哎这才是MC的UI嘛，早些年一直玩的非正版，启动器也就是两行字/笑哭<br>时代变了，时代变了  </p>
-<hr>
-<p>至于为什么买正版，白嫖不香吗？  </p>
-<ol>
-<li>那我肯定是有原则的人了，说到白嫖，其实我也真的能白嫖到，从Java版的非官方启动器，到win10那个应用商店的基岩版我都能找到破解的方法，没错win10应用商店那个可以通过注册表和切断购买验证，使体验版变为“正版”，而且还能联机我是没想到。  </li>
-<li>但是没必要，一个我真正喜欢的东西，值得我去支持  </li>
-<li>我的世界这个游戏对我来说，已经真的不止一个游戏那么简单了，甚至让我收获到了很多别的东西，这个以后会专门开一篇文章来说。  </li>
-</ol>
-<p><strong>总的来说，买入MC不仅是因为它值得，更是因为对我来说意义重大，所以哪怕我能白嫖它，哪怕它就这么贵，我也会买，为了情怀都会买。反正现在不买迟早买，为了防止涨价，赶紧先买了再说。</strong><br>而且好久没玩我的世界了，趁着这个机会再过把瘾</p>
-]]></content>
-      <tags>
-        <tag>Minecraft</tag>
       </tags>
   </entry>
   <entry>
@@ -416,6 +397,25 @@
 ]]></content>
       <tags>
         <tag>纪念</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Officially Join Minecraft!</title>
+    <url>/post/3901125.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h1 id="MINECRATF"><a href="#MINECRATF" class="headerlink" title="MINECRATF"></a>MINECRATF</h1><p>//很激动，因为就在刚刚，我终于斥巨资买下来Minecraft Java版的正版<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/158140/38/12944/137309/60518d22Ef89cb96b/2bcfddfee1099c9f.png"><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/171437/21/13104/1079522/60518d35Ef3ccba10/6c8aa2aa47af7809.png"></p>
+<p>七年了！我等了七年<br>我现在也是正版玩家了，虽然中国版也算正版，但是我不喜欢  </p>
+<p><strong>打开界面</strong><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/161529/16/13316/1213507/60518d6aE32f09d9b/77f8f947e707e001.png"><br>哎这才是MC的UI嘛，早些年一直玩的非正版，启动器也就是两行字/笑哭<br>时代变了，时代变了  </p>
+<hr>
+<p>至于为什么买正版，白嫖不香吗？  </p>
+<ol>
+<li>那我肯定是有原则的人了，说到白嫖，其实我也真的能白嫖到，从Java版的非官方启动器，到win10那个应用商店的基岩版我都能找到破解的方法，没错win10应用商店那个可以通过注册表和切断购买验证，使体验版变为“正版”，而且还能联机我是没想到。  </li>
+<li>但是没必要，一个我真正喜欢的东西，值得我去支持  </li>
+<li>我的世界这个游戏对我来说，已经真的不止一个游戏那么简单了，甚至让我收获到了很多别的东西，这个以后会专门开一篇文章来说。  </li>
+</ol>
+<p><strong>总的来说，买入MC不仅是因为它值得，更是因为对我来说意义重大，所以哪怕我能白嫖它，哪怕它就这么贵，我也会买，为了情怀都会买。反正现在不买迟早买，为了防止涨价，赶紧先买了再说。</strong><br>而且好久没玩我的世界了，趁着这个机会再过把瘾</p>
+]]></content>
+      <tags>
+        <tag>Minecraft</tag>
       </tags>
   </entry>
   <entry>
@@ -534,6 +534,36 @@
       </tags>
   </entry>
   <entry>
+    <title>纪念一下第一次家教//即将经济独立</title>
+    <url>/post/3186204c.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="上了大学念了这么久，终于踏出一步"><a href="#上了大学念了这么久，终于踏出一步" class="headerlink" title="上了大学念了这么久，终于踏出一步"></a>上了大学念了这么久，终于踏出一步</h3><p>自从到了广州，总想着各种办法搞钱，但都没有大发展，有时候也是真的懒，或者没有准备好。像第一次那个想成人高考的家教英语，还没开始就结束了，一是没有太多准备，二是没有太大决心。<strong>但是现在是真的有决心去兼职，也开始认认真真去做了！</strong><br>其实昨天见面的时候还是挺紧张的，怕自己不够格，怕因为教不好被谴责，怕自己没有安排好时间耽误别的事情。但是有时候，头皮一硬，冲就完事了！一心想搞钱，谁也拦不住我了。</p>
+<h3 id="面基-amp-开始"><a href="#面基-amp-开始" class="headerlink" title="面基&amp;开始"></a>面基&amp;开始</h3><p>昨天（星期六）下午，就和跟我联系的叔叔联系见面，和我要教的学生以及他的妈妈。见了面就直接往饭店里进去了hhh受宠若惊【此处应该有图，但是不好意思拍照】，看这装修风格反正我是正常情况是吃不起。点了几个菜之后，边喝茶边聊天。叔叔阿姨都是广州本地人，很友好，可惜叔叔一直讲粤语，他的普通话就很广东，大部分还得靠阿姨翻译。我的学生也很好说话，跟我是同一年出生的，基本是没有任何沟通代沟的。所以整个过程还是挺舒心的！太棒了！<br>今天早上正式开讲。8点半差不多吧。七点多坐地铁过去的时候贼困，昨天两点才睡觉。。。紧急备了一下课，先给自己做做心理工作哈哈哈哈哈。<br>工作环境（学习环境）很好，在他们家的天台，光线充足还有微风，真不错，图来~<br><br><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/160949/15/12623/182066/604e1bdbE77a2df68/a09c7ff9fc871e1b.jpg"></p>
+<p>然后就讲了一个上午，感觉效率还是，我的学生悟性很高，我感觉这种上班环境+上班氛围，估计可以吊打大批社畜了。<br>十一点半多就结束，然后一起去吃了顿饭  </p>
+<p><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/164148/32/12490/114470/604e1cefEaeafcb08/27cbc03bd3d1a536.jpg">  </p>
+<p>依然不好意思拍照的我，悄悄咪咪拍了一张。<br>有工资还蹭饭，不愧是我。<br>不过嘛，跟陌生人一起吃饭还是有点拘谨的哈哈哈</p>
+<h3 id="经济独立"><a href="#经济独立" class="headerlink" title="经济独立"></a>经济独立</h3><p>按照我这个工作做下来，别说满足日常消费，我已经是人上人了。一想到有钱花了，坐个地铁回去路上傻笑了一路，还好戴着口罩哈哈哈哈哈哈哈。我就爱幻想这些美好的生活，以前是幻想，现在可能有能力来真正实现了。比如我可以买个吉他，买上所有以前想要但是太贵不敢买的，生活越来越有盼头了，真不错！<br>而且这个工作对我来说也意义重大（字面意思），不只是钱啊，这种类似社会实践的，其实平时接触的是比较少的，这也是个很好的机会来锻炼自己。钱不钱其实不重要啊，主要是想提升一下自己的能力嘛对吧<br><strong>2021.3.14</strong></p>
+]]></content>
+      <tags>
+        <tag>纪念</tag>
+        <tag>修仙之路</tag>
+        <tag>职业生涯</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>给网站弄个证书</title>
+    <url>/post/b7c45993.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/175360/33/8370/84644/6094fcabE92189f21/20046d90c82123d8.jpg"><br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/191933/24/1865/80700/6094fcabE2c221519/3c3f9b9701636eda.png"><br>当然，以后有用，反正免费的<br>证书还没申请下来，申请下来了也还要部署什么的（好像很麻烦），以后再来探索一下了</p>
+<hr>
+<p><em>5月10号，二更</em></p>
+<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/182082/20/3344/140724/60995038Eccb16887/5ce68062151dd239.png"><br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/190775/7/2461/15465/60995036E04687e8a/93d17b3f7e99d263.png"><br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/190722/28/2450/35746/60995037E6a123edd/75dd4c2d63b6c7f5.png"><br>拿到证书了，合照一波<br>网站嘛，安全最重要，肯定得是https<br>不过部署的话没那么快，目前也在探秘中~~~<br>找了很多ssl部署的教程，笑死，根本看不懂<br>然后准备去Cloud Flare上部署，现在我也是一脸懵逼/捂脸</p>
+]]></content>
+      <tags>
+        <tag>网站历程</tag>
+        <tag>Blog2.0</tag>
+        <tag>探索</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>简单地记下几笔</title>
     <url>/post/c38acc06.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="这个夏天喝到橘子味汽水之前，先尝尝酸掉牙的柠檬味七喜？"><a href="#这个夏天喝到橘子味汽水之前，先尝尝酸掉牙的柠檬味七喜？" class="headerlink" title="这个夏天喝到橘子味汽水之前，先尝尝酸掉牙的柠檬味七喜？"></a>这个夏天喝到橘子味汽水之前，先尝尝酸掉牙的柠檬味七喜？</h3><blockquote>
@@ -565,33 +595,6 @@
 ]]></content>
       <tags>
         <tag>生活记录仪</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>纪念一下第一次家教//即将经济独立</title>
-    <url>/post/3186204c.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="上了大学念了这么久，终于踏出一步"><a href="#上了大学念了这么久，终于踏出一步" class="headerlink" title="上了大学念了这么久，终于踏出一步"></a>上了大学念了这么久，终于踏出一步</h3><p>自从到了广州，总想着各种办法搞钱，但都没有大发展，有时候也是真的懒，或者没有准备好。像第一次那个想成人高考的家教英语，还没开始就结束了，一是没有太多准备，二是没有太大决心。<strong>但是现在是真的有决心去兼职，也开始认认真真去做了！</strong><br>其实昨天见面的时候还是挺紧张的，怕自己不够格，怕因为教不好被谴责，怕自己没有安排好时间耽误别的事情。但是有时候，头皮一硬，冲就完事了！一心想搞钱，谁也拦不住我了。</p>
-<h3 id="面基-amp-开始"><a href="#面基-amp-开始" class="headerlink" title="面基&amp;开始"></a>面基&amp;开始</h3><p>昨天（星期六）下午，就和跟我联系的叔叔联系见面，和我要教的学生以及他的妈妈。见了面就直接往饭店里进去了hhh受宠若惊【此处应该有图，但是不好意思拍照】，看这装修风格反正我是正常情况是吃不起。点了几个菜之后，边喝茶边聊天。叔叔阿姨都是广州本地人，很友好，可惜叔叔一直讲粤语，他的普通话就很广东，大部分还得靠阿姨翻译。我的学生也很好说话，跟我是同一年出生的，基本是没有任何沟通代沟的。所以整个过程还是挺舒心的！太棒了！<br>今天早上正式开讲。8点半差不多吧。七点多坐地铁过去的时候贼困，昨天两点才睡觉。。。紧急备了一下课，先给自己做做心理工作哈哈哈哈哈。<br>工作环境（学习环境）很好，在他们家的天台，光线充足还有微风，真不错，图来~<br><br><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/160949/15/12623/182066/604e1bdbE77a2df68/a09c7ff9fc871e1b.jpg"></p>
-<p>然后就讲了一个上午，感觉效率还是，我的学生悟性很高，我感觉这种上班环境+上班氛围，估计可以吊打大批社畜了。<br>十一点半多就结束，然后一起去吃了顿饭  </p>
-<p><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/164148/32/12490/114470/604e1cefEaeafcb08/27cbc03bd3d1a536.jpg">  </p>
-<p>依然不好意思拍照的我，悄悄咪咪拍了一张。<br>有工资还蹭饭，不愧是我。<br>不过嘛，跟陌生人一起吃饭还是有点拘谨的哈哈哈</p>
-<h3 id="经济独立"><a href="#经济独立" class="headerlink" title="经济独立"></a>经济独立</h3><p>按照我这个工作做下来，别说满足日常消费，我已经是人上人了。一想到有钱花了，坐个地铁回去路上傻笑了一路，还好戴着口罩哈哈哈哈哈哈哈。我就爱幻想这些美好的生活，以前是幻想，现在可能有能力来真正实现了。比如我可以买个吉他，买上所有以前想要但是太贵不敢买的，生活越来越有盼头了，真不错！<br>而且这个工作对我来说也意义重大（字面意思），不只是钱啊，这种类似社会实践的，其实平时接触的是比较少的，这也是个很好的机会来锻炼自己。钱不钱其实不重要啊，主要是想提升一下自己的能力嘛对吧<br><strong>2021.3.14</strong></p>
-]]></content>
-      <tags>
-        <tag>纪念</tag>
-        <tag>修仙之路</tag>
-        <tag>职业生涯</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>给网站弄个证书</title>
-    <url>/post/b7c45993.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/175360/33/8370/84644/6094fcabE92189f21/20046d90c82123d8.jpg"><br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/191933/24/1865/80700/6094fcabE2c221519/3c3f9b9701636eda.png"><br>当然，以后有用，反正免费的<br>证书还没申请下来，申请下来了也还要部署什么的（好像很麻烦），以后再来探索一下了</p>
-]]></content>
-      <tags>
-        <tag>网站历程</tag>
-        <tag>Blog2.0</tag>
-        <tag>探索</tag>
       </tags>
   </entry>
   <entry>
