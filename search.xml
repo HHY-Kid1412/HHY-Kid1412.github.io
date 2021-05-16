@@ -107,6 +107,27 @@
       </tags>
   </entry>
   <entry>
+    <title>又开了个Github小号，顺便解决了个大问题</title>
+    <url>/post/e8d2779f.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>今天闲着去找GitHub静态页面，看看有没有什么比较好玩的前端代码<br>fork之后开放Github Pages后一直打不开（404） 可能是Github开了很多的原因？<br>然后我就打算再申请个GitHub的小号【*@yiang.store域名邮箱管够嘿嘿嘿*】<br>然后悲剧就开始发生了↓<br>邮箱收不到验证码<br>试了很久还是邮箱没动静，然后我就用QQ邮箱去发一个试试看，结果：<br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/186285/3/4262/32698/60a13412E5f540063/60bf5a6bce36f690.png"><br><strong>解决方案：向管理员报告此退信</strong><br><strong>解决方案：向管理员报告此退信</strong><br><strong>解决方案：向管理员报告此退信</strong><br>我直接？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？？<br>身为邮箱管理员的我，何德何能啊<br>百度无果，看来只能自己找原因了[完蛋]<br>顺藤摸瓜找到阿里云域名控制台</p>
+<blockquote>
+<p>DNS修改，是指将当前域名的解析DNS服务器更换为其他的DNS服务器，由修改后的DNS服务器负责域名解析服务。</p>
+</blockquote>
+<p>前阵子确实改了DNS域名服务器，导致邮箱服务器解析失败导致域名邮箱失效（真是服了好复杂）  </p>
+<blockquote>
+<p><a href="https://www.cloudflare.com/zh-cn/">https://www.cloudflare.com/zh-cn/</a></p>
+</blockquote>
+<p>域名服务器改到了Cloud flare，得重新解析一下，看来以后不能靠阿里云了<br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/173187/4/10122/37376/60a13412Ebd0ef9d4/eb7188e34590cc1b.png"></p>
+<p>然后邮箱成功恢复正常  </p>
+<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/146425/6/17363/48799/60a13412Ed1417268/ed4ea106a7b98f82.png"></p>
+<p>小号注册完毕</p>
+]]></content>
+      <tags>
+        <tag>探索</tag>
+        <tag>邮箱</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>名侦探柯南剧场版：绯色的子弹</title>
     <url>/post/mztkn-m24.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="1"><a href="#1" class="headerlink" title="#1"></a>#1</h3><p>名侦探柯南剧场版？那必然得去电影院看啊。想当初那部绀青之拳，就在电影院看，那真是体验感拉满。没想到已经隔了快两年了。<br>剧场版片头那个主题曲一响，毛骨悚然哈哈哈，这种感觉只有电影院才有。就冲这感觉，电影的票钱就已经值了。  </p>
@@ -126,6 +147,30 @@
       <tags>
         <tag>生活记录仪</tag>
         <tag>名侦探柯南</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>域名邮箱</title>
+    <url>/post/10da8cd0.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>买了域名以来，对于各种云产品的接触都大了，突发奇想，想自己开一个域名邮箱。<br>QQ邮箱和网易邮箱大家都在用，对吧，我就想整个跟大伙不一样的，刚好我也有域名不是，如果能做一个独立邮箱出来，那肯定与众不同，关键是能多开几个小号，最近出来QQ邮箱和163邮箱外，已经没有多余的邮箱来注册一些东西了。  </p>
+<p><strong>日常整活，说干就干</strong>  </p>
+<ol>
+<li>邮箱肯定要有一个服务器，还要能长期运行不会说崩就崩的，那就肯定不会是我自己的服务器了；  </li>
+<li>QQ邮箱和网易邮箱也不支持绑定自己的域名了，排除；</li>
+<li>要开独立域名邮箱好像也得是企业邮箱，看了腾讯和网易，好家伙全是收费的，还那么贵；然后去了隔壁阿里云，果然有免费版嘿嘿嘿；</li>
+<li>创建完企业邮箱，绑定域名一气呵成（接触这么久，看到这些都觉得轻而易举了）</li>
+</ol>
+<p>所以现在，只要是 </p>
+<blockquote>
+<p><a href="mailto:&#x58;&#x58;&#x58;&#64;&#121;&#x69;&#x61;&#x6e;&#103;&#x2e;&#115;&#116;&#x6f;&#x72;&#101;">&#x58;&#x58;&#x58;&#64;&#121;&#x69;&#x61;&#x6e;&#103;&#x2e;&#115;&#116;&#x6f;&#x72;&#101;</a>  </p>
+</blockquote>
+<p>名字我还可以随便取</p>
+<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/176210/11/209/99760/605b6ae2Ef903c248/296560f863072a94.png" alt="阿里云企业邮箱"></p>
+<p>（上流）  </p>
+<p>而且，最多我可以创50个邮箱，邮箱名还可以随便起，以后不怕没有邮箱去注册东西了嚯嚯嚯<br>顺便说一句：阿里云，慈善公司啊，域名也是阿里云买的，要不是服务器用不上也买了，阿里云盘也好用，速度和容量吊打毒盘（内测用户偷笑）</p>
+]]></content>
+      <tags>
+        <tag>花里胡哨</tag>
       </tags>
   </entry>
   <entry>
@@ -154,30 +199,6 @@
       </tags>
   </entry>
   <entry>
-    <title>域名邮箱</title>
-    <url>/post/10da8cd0.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p>买了域名以来，对于各种云产品的接触都大了，突发奇想，想自己开一个域名邮箱。<br>QQ邮箱和网易邮箱大家都在用，对吧，我就想整个跟大伙不一样的，刚好我也有域名不是，如果能做一个独立邮箱出来，那肯定与众不同，关键是能多开几个小号，最近出来QQ邮箱和163邮箱外，已经没有多余的邮箱来注册一些东西了。  </p>
-<p><strong>日常整活，说干就干</strong>  </p>
-<ol>
-<li>邮箱肯定要有一个服务器，还要能长期运行不会说崩就崩的，那就肯定不会是我自己的服务器了；  </li>
-<li>QQ邮箱和网易邮箱也不支持绑定自己的域名了，排除；</li>
-<li>要开独立域名邮箱好像也得是企业邮箱，看了腾讯和网易，好家伙全是收费的，还那么贵；然后去了隔壁阿里云，果然有免费版嘿嘿嘿；</li>
-<li>创建完企业邮箱，绑定域名一气呵成（接触这么久，看到这些都觉得轻而易举了）</li>
-</ol>
-<p>所以现在，只要是 </p>
-<blockquote>
-<p><a href="mailto:&#x58;&#88;&#88;&#64;&#x79;&#x69;&#x61;&#110;&#103;&#x2e;&#x73;&#116;&#x6f;&#114;&#x65;">&#x58;&#88;&#88;&#64;&#x79;&#x69;&#x61;&#110;&#103;&#x2e;&#x73;&#116;&#x6f;&#114;&#x65;</a>  </p>
-</blockquote>
-<p>名字我还可以随便取</p>
-<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/176210/11/209/99760/605b6ae2Ef903c248/296560f863072a94.png" alt="阿里云企业邮箱"></p>
-<p>（上流）  </p>
-<p>而且，最多我可以创50个邮箱，邮箱名还可以随便起，以后不怕没有邮箱去注册东西了嚯嚯嚯<br>顺便说一句：阿里云，慈善公司啊，域名也是阿里云买的，要不是服务器用不上也买了，阿里云盘也好用，速度和容量吊打毒盘（内测用户偷笑）</p>
-]]></content>
-      <tags>
-        <tag>花里胡哨</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>开放注册此域名的邮箱！</title>
     <url>/post/bfc6ec80.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h2 id="开放注册-yiang-store-邮箱"><a href="#开放注册-yiang-store-邮箱" class="headerlink" title="开放注册 @yiang.store 邮箱"></a>开放注册 @yiang.store 邮箱</h2><hr>
@@ -186,9 +207,9 @@
 <li><p>支持靓号选择，如：</p>
 <blockquote>
 <ul>
-<li><a href="mailto:&#x31;&#64;&#121;&#x69;&#97;&#x6e;&#103;&#46;&#x73;&#116;&#111;&#x72;&#101;">&#x31;&#64;&#121;&#x69;&#97;&#x6e;&#103;&#46;&#x73;&#116;&#111;&#x72;&#101;</a></li>
-<li><a href="mailto:&#104;&#64;&#x79;&#x69;&#97;&#x6e;&#x67;&#x2e;&#115;&#116;&#111;&#114;&#x65;">&#104;&#64;&#x79;&#x69;&#97;&#x6e;&#x67;&#x2e;&#115;&#116;&#111;&#114;&#x65;</a></li>
-<li><a href="mailto:&#x36;&#x36;&#x36;&#64;&#121;&#105;&#97;&#x6e;&#103;&#46;&#x73;&#x74;&#111;&#114;&#x65;">&#x36;&#x36;&#x36;&#64;&#121;&#105;&#97;&#x6e;&#103;&#46;&#x73;&#x74;&#111;&#114;&#x65;</a>  </li>
+<li><a href="mailto:&#49;&#x40;&#x79;&#105;&#97;&#x6e;&#103;&#46;&#x73;&#116;&#x6f;&#114;&#x65;">&#49;&#x40;&#x79;&#105;&#97;&#x6e;&#103;&#46;&#x73;&#116;&#x6f;&#114;&#x65;</a></li>
+<li><a href="mailto:&#x68;&#64;&#x79;&#x69;&#x61;&#110;&#x67;&#x2e;&#115;&#116;&#111;&#x72;&#x65;">&#x68;&#64;&#x79;&#x69;&#x61;&#110;&#x67;&#x2e;&#115;&#116;&#111;&#x72;&#x65;</a></li>
+<li><a href="mailto:&#54;&#x36;&#x36;&#64;&#x79;&#105;&#x61;&#x6e;&#x67;&#46;&#x73;&#116;&#111;&#x72;&#x65;">&#54;&#x36;&#x36;&#64;&#x79;&#105;&#x61;&#x6e;&#x67;&#46;&#x73;&#116;&#111;&#x72;&#x65;</a>  </li>
 </ul>
 </blockquote>
 </li>
@@ -212,7 +233,7 @@
 </ol>
 <ul>
 <li>手机“电子邮件”APP 以及 win10系统自带的“邮件”，<strong>使用邮箱和密码即可直接登录</strong></li>
-<li>在别的邮箱中，添加一个“其它邮箱”，例如在QQ邮箱中添加一个<em><a href="mailto:&#x61;&#x62;&#x61;&#98;&#x61;&#x62;&#97;&#x40;&#121;&#x69;&#x61;&#110;&#103;&#x2e;&#x73;&#x74;&#x6f;&#x72;&#x65;">&#x61;&#x62;&#x61;&#98;&#x61;&#x62;&#97;&#x40;&#121;&#x69;&#x61;&#110;&#103;&#x2e;&#x73;&#x74;&#x6f;&#x72;&#x65;</a></em>，在“添加邮箱”页面，输入邮箱和密码后，会出现一个选择服务器以及端口，如下添加  <blockquote>
+<li>在别的邮箱中，添加一个“其它邮箱”，例如在QQ邮箱中添加一个<em><a href="mailto:&#97;&#x62;&#x61;&#98;&#97;&#x62;&#97;&#64;&#x79;&#x69;&#97;&#110;&#103;&#x2e;&#115;&#x74;&#111;&#114;&#x65;">&#97;&#x62;&#x61;&#98;&#97;&#x62;&#97;&#64;&#x79;&#x69;&#97;&#110;&#103;&#x2e;&#115;&#x74;&#111;&#114;&#x65;</a></em>，在“添加邮箱”页面，输入邮箱和密码后，会出现一个选择服务器以及端口，如下添加  <blockquote>
 <p>服务器：pop3.mxhichina.com<br>端口：995<br>SSL √  </p>
 </blockquote>
 </li>
@@ -224,7 +245,7 @@
 <p><strong>但是值得注意的是，在正常邮箱软件中是不需要填写那么多的，一般输入邮箱地址和密码，默认状态下（或者pop3）便可登录邮箱！</strong></p>
 <h3 id="申请方法"><a href="#申请方法" class="headerlink" title="申请方法"></a>申请方法</h3><p>将邮箱名通过任何联系方式发送给我，若没有人注册过该邮箱，我便会为你创建一个邮箱<br>如：  </p>
 <blockquote>
-<p>你用QQ邮箱，发送“<em><a href="mailto:&#x61;&#x62;&#x61;&#98;&#97;&#98;&#x61;&#x40;&#x79;&#x69;&#97;&#110;&#x67;&#x2e;&#115;&#x74;&#111;&#114;&#101;">&#x61;&#x62;&#x61;&#98;&#97;&#98;&#x61;&#x40;&#x79;&#x69;&#97;&#110;&#x67;&#x2e;&#115;&#x74;&#111;&#114;&#101;</a></em>”到我的邮箱<em><a href="mailto:&#104;&#104;&#x79;&#x40;&#121;&#105;&#97;&#110;&#x67;&#46;&#115;&#x74;&#111;&#x72;&#x65;">&#104;&#104;&#x79;&#x40;&#121;&#105;&#97;&#110;&#x67;&#46;&#115;&#x74;&#111;&#x72;&#x65;</a></em>,我会在24小时内为你创建一个该地址的邮箱，并发回QQ邮箱告诉你邮箱已经创建好了  </p>
+<p>你用QQ邮箱，发送“<em><a href="mailto:&#97;&#x62;&#97;&#98;&#97;&#98;&#97;&#64;&#x79;&#105;&#97;&#110;&#x67;&#46;&#115;&#116;&#x6f;&#114;&#x65;">&#97;&#x62;&#97;&#98;&#97;&#98;&#97;&#64;&#x79;&#105;&#97;&#110;&#x67;&#46;&#115;&#116;&#x6f;&#114;&#x65;</a></em>”到我的邮箱<em><a href="mailto:&#104;&#104;&#x79;&#64;&#121;&#x69;&#x61;&#x6e;&#x67;&#46;&#115;&#116;&#111;&#x72;&#x65;">&#104;&#104;&#x79;&#64;&#121;&#x69;&#x61;&#x6e;&#x67;&#46;&#115;&#116;&#111;&#x72;&#x65;</a></em>,我会在24小时内为你创建一个该地址的邮箱，并发回QQ邮箱告诉你邮箱已经创建好了  </p>
 </blockquote>
 <p>拿到邮箱后，可更改默认密码以便提高安全性  </p>
 <h3 id="更多相关信息"><a href="#更多相关信息" class="headerlink" title="更多相关信息"></a>更多相关信息</h3><ul>
@@ -274,6 +295,22 @@
       </tags>
   </entry>
   <entry>
+    <title>故乡的元宵</title>
+    <url>/post/74f3b207.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="元宵节时候的西南村"><a href="#元宵节时候的西南村" class="headerlink" title="元宵节时候的西南村"></a>元宵节时候的西南村</h3><p><em>现在才来写这篇文章，已经是第二天了，打了几把王者然后就过了十二点。。。</em>  </p>
+<p>今天的天气来看，还是比较有节日气息的<br>按照习俗，今天（或者说昨天）下午就开始祭祀（土话：拜），跟除夕的时候差不多<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/168711/32/8268/847332/60392042Ec77eb5a4/a26a3b6ca2bfff3c.jpg"><br>今天特意拍了很多张照片  </p>
+<p>晚餐会比平时要早一点吃，因为晚上大家都会出去各个地方拜，祠堂或者大大小小的庙<br>↓祠堂↓<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/142095/8/10840/255530/60391e43E3e68ec3f/1b66735436cf8b3f.jpg"><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/157796/40/8782/163406/60391e34E46f85eff/dfbf4be8187455ce.jpg"><br>祠堂里面有一座狮像，迷信说法：从它的头摸到尾，今年就会有好运气，每个去摸的人都会在旁边放上一些钱，虽然大部分都是一块钱，也算是图个吉祥  </p>
+<p>↓这是寨门外面的↓<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/161300/22/8249/206309/60391e3fEc5a2accb/a74f849ded33a15d.jpg"><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/155520/9/20009/190423/60391e3eEb53bbd06/b837ef2e86ab161b.jpg"><br>也是供人拜的地方  </p>
+<p>但是因为去年的疫情，今年还是少了很多活动和热情，人们对祭祀这种古老的活动的热情也在逐年消退，虽然也算是是迷信活动，但毕竟从小接触到大，我也不希望它会退出历史舞台。虽然我们没有漫天的灯笼，没有几年前那种热闹的活动，但是村民们对元宵节的祭祀依然看得很重，可能这也是从小到大的习惯吧</p>
+]]></content>
+      <tags>
+        <tag>生活记录仪</tag>
+        <tag>纪念</tag>
+        <tag>故乡</tag>
+        <tag>节日</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>有时候的头晕眼花，也可能带来意外收获</title>
     <url>/post/79699ea9.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="前言："><a href="#前言：" class="headerlink" title="前言："></a>前言：</h3><p>这个标题属实起得很标题党，但是没办法我也不知道怎么说了，倒也不是发生了些什么特别有哲理的事物，就算是一篇日记了吧。  </p>
@@ -288,22 +325,6 @@
 ]]></content>
       <tags>
         <tag>生活记录仪</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>故乡的元宵</title>
-    <url>/post/74f3b207.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="元宵节时候的西南村"><a href="#元宵节时候的西南村" class="headerlink" title="元宵节时候的西南村"></a>元宵节时候的西南村</h3><p><em>现在才来写这篇文章，已经是第二天了，打了几把王者然后就过了十二点。。。</em>  </p>
-<p>今天的天气来看，还是比较有节日气息的<br>按照习俗，今天（或者说昨天）下午就开始祭祀（土话：拜），跟除夕的时候差不多<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/168711/32/8268/847332/60392042Ec77eb5a4/a26a3b6ca2bfff3c.jpg"><br>今天特意拍了很多张照片  </p>
-<p>晚餐会比平时要早一点吃，因为晚上大家都会出去各个地方拜，祠堂或者大大小小的庙<br>↓祠堂↓<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/142095/8/10840/255530/60391e43E3e68ec3f/1b66735436cf8b3f.jpg"><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/157796/40/8782/163406/60391e34E46f85eff/dfbf4be8187455ce.jpg"><br>祠堂里面有一座狮像，迷信说法：从它的头摸到尾，今年就会有好运气，每个去摸的人都会在旁边放上一些钱，虽然大部分都是一块钱，也算是图个吉祥  </p>
-<p>↓这是寨门外面的↓<br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/161300/22/8249/206309/60391e3fEc5a2accb/a74f849ded33a15d.jpg"><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/155520/9/20009/190423/60391e3eEb53bbd06/b837ef2e86ab161b.jpg"><br>也是供人拜的地方  </p>
-<p>但是因为去年的疫情，今年还是少了很多活动和热情，人们对祭祀这种古老的活动的热情也在逐年消退，虽然也算是是迷信活动，但毕竟从小接触到大，我也不希望它会退出历史舞台。虽然我们没有漫天的灯笼，没有几年前那种热闹的活动，但是村民们对元宵节的祭祀依然看得很重，可能这也是从小到大的习惯吧</p>
-]]></content>
-      <tags>
-        <tag>生活记录仪</tag>
-        <tag>纪念</tag>
-        <tag>故乡</tag>
-        <tag>节日</tag>
       </tags>
   </entry>
   <entry>
@@ -344,59 +365,6 @@
 ]]></content>
       <tags>
         <tag>网站历程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>此篇谨以感谢吾爱破解论坛对我的帮助和改变</title>
-    <url>/post/52pj.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h3><p>从我一开始拿到电脑，一个四千多块钱的家伙起，我就知道我跟电脑的关系不仅于游戏和做一些普通的事情，我的电脑也绝不会是一台没啥功能的电脑。所以我那段时间经常在想怎么让电脑实现更多的功能或者是能办更多的事情。<br>在找了很多关于“win10”玩机的资料，加上很多营销号各种吹上天的破软件，点名<strong>某乎</strong>，很少能找到真正用得上、能用、有意义的东西。后来在一些公众号上推广的各种软件（其实那些公众号也没啥用），机缘巧合地，看见了一个熟悉的身影，发现了他们（公众号）很多东西来源于一个地方：<strong>吾爱破解</strong><br><br><br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/164615/23/11146/4718/6075ab3bEf6714be8/874b50ebdf3e9ee1.png"><br><br></p>
-<h3 id="熟悉的身影→-→"><a href="#熟悉的身影→-→" class="headerlink" title="熟悉的身影→_→"></a>熟悉的身影→_→</h3><p>为什么说熟悉，早在很久很久以前，刚开始接触智能机玩天天酷跑的时候（那个时候天天酷跑30M），为了寻找破解版的我，在百度上以“破解”关键词进行过大量搜索，估计那个时候就知道有这个东西。后来在很多破解软件中，也多多少少见过这种字样“吾爱破解@XXX”  </p>
-<blockquote>
-<p>为什么会有破解软件？以前单机游戏谁不曾想玩破解版或者修改器？  </p>
-</blockquote>
-<hr>
-<h3 id="关于吾爱破解"><a href="#关于吾爱破解" class="headerlink" title="关于吾爱破解"></a>关于吾爱破解</h3><p>在公众号上看到吾爱破解出厂了那么多奇怪的软件，自然就吸引到我了。（奇怪：指没啥用【高情商】）  </p>
-<blockquote>
-<p><a href="https://www.52pojie.cn/">https://www.52pojie.cn/</a>  </p>
-</blockquote>
-<p>果然这个论坛给我的气息就是不一样，密密麻麻的的字跟脚本之家有点相似。一看就知道是理科大佬群聚的地方，而且是好地方。<br>其实到这个时候我还不知道吾爱破解的大神跟我有啥关系，毕竟人家研究逆向、安全、工程，好像也和我没有关系啊…<br>一切直到2020年十一月，双十一活动前夕。<br>我只是想看看最近有没有什么可以捞一下的软件或者有没有什么新的 IT事情发生，结果，在热门版区看到赫赫几个大字：<strong>全自动京东双十一XX活动</strong>  </p>
-<h4 id="白嫖干嘛？愣着啊"><a href="#白嫖干嘛？愣着啊" class="headerlink" title="白嫖干嘛？愣着啊"></a>白嫖干嘛？愣着啊</h4><p>没错，我思考了很久，我们既然可以把破解应用在游戏上，又为何不可用在赚钱上？  </p>
-<p><em>我没想到的事情，吾爱大神想到了，而且他们做出来了，最伟大的是，他们分享出来了</em></p>
-<p>我果断下载打开软件，系统报毒？那就是系统出问题了，把系统的杀毒软件关了就行了，这是我在吾爱悟出来的硬道理。没有强盗会抢一个身无分文的人的东西，也没有黑客会去盗取一位平民用户的数据，何况大家还都是普通人。（当然，在别的地方下载的.exe就别随便信任，“O泡时间到”警告）。所以那个会直接删除我所谓的病毒软件的卫士，早就被我卸载了。  </p>
-<blockquote>
-<p>电脑小白不建议win10裸奔，也别随便信任软件！</p>
-</blockquote>
-<p>话说回来，然后我就顶着这个病毒文件，（确实是特洛伊病毒，但无大碍），将这个脚本挂了十几天。我一开始不信你知道吧，我觉得开个挂也就多一点点收益，就像每年双十一淘宝那个活动我一直都只是随便签到做做任务，然后拿着几块钱红包乐呵一下。<br>但是时代变了，我那时的身份是一个贫困的大学生，我过啥双十一啊我，不过我并没有放弃我的探索，毕竟拿商业软件开脚本的，我是真的第一次见。  </p>
-<h4 id="那次"><a href="#那次" class="headerlink" title="那次"></a>那次</h4><p>我向我身边几位朋友说，可能有个好东西可以白嫖，但是我也不确定收益。最后我的室友终于在我的蛊惑下加入了我的阵营。主要是没啥需要付出的，每天就只需要在电脑点两下，比挖矿都轻松。这能不试试？<br>为期十余天，用该软件挂着京东的活动，一共9个号，也就是在我的电脑上运作着9个病毒文件</p>
-<h4 id="收益"><a href="#收益" class="headerlink" title="收益"></a>收益</h4><p>一开始估算是一个号20元红包吧，毕竟从来没有完整做过活动，也不敢太大胆去猜。最后果然还是太保守了，<br>总收益高达<strong>500元</strong>，而且每个号还有大量的优惠券<br>我那个时候有点吃惊，后来我喝着因为有点渴从宿舍里面放着的几箱伊利高钙奶和特仑苏中随便拿的一瓶牛奶，看着满屏的数据，跟朋友们谈论此事的时候，嘴上都带着某种来自贫困人民突然变成富豪的暴发户类似的诡异微笑。</p>
-<h3 id="他给我开了一扇门，门里闪耀着光"><a href="#他给我开了一扇门，门里闪耀着光" class="headerlink" title="他给我开了一扇门，门里闪耀着光"></a>他给我开了一扇门，门里闪耀着光</h3><p>那个双十一只是一个小例子罢了，吾爱破解给我带来的当然不只是一个商业挂；<strong>更多的是一种思考模式：当一件事可以获利时，很大可能是会有人去做了，所以想要冲在别人前面，首先消息就要比别人灵通，手段要比别人高明</strong>，就像那位写出了抢茅台的老哥，靠着利用和出售代码不知道赚了多少钱，最后代码失效的时候再开源，又赚了一波人气。不得不感慨总会有人既有才华也很努力。  </p>
-<blockquote>
-<p>当然，道理不止这么一条，比如一个东西越多人用，收益也会被平摊</p>
-</blockquote>
-<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/170992/20/18288/628921/6075ab43E6a22cc48/6a39544ab42b2872.jpg" alt="盛世"></p>
-<blockquote>
-<p>图为2021年京东春季赛，啊不是，是2021年，春节的时候京东炸年兽的时候+京喜（京东旗下另一个网购APP）挂脚本</p>
-</blockquote>
-<p><em>对了，另外说明，挂脚本不会损失商家利益，只是相当于机器人做任务而已，顶多算损害你的利益</em></p>
-<p>不过，春节的时候因为活动参与者比较多，所以收益有所减少。</p>
-<p>做了粗略统计，光是这类脚本，总收益就已超一千，虽然不是我的单纯收入。但起码验证一个道理，科技是第一生产力。只要足够聪明，总会有各种奇奇怪怪的套路。</p>
-<h3 id="成功加入吾爱破解论坛，成为正式会员！"><a href="#成功加入吾爱破解论坛，成为正式会员！" class="headerlink" title="成功加入吾爱破解论坛，成为正式会员！"></a>成功加入吾爱破解论坛，成为正式会员！</h3><h4 id="加入吾爱一个月纪念"><a href="#加入吾爱一个月纪念" class="headerlink" title="加入吾爱一个月纪念~"></a>加入吾爱一个月纪念~</h4><p>趁着吾爱周年庆，我也终于有机会加入这个小众（对于普通人）而又神通广大的民间组织。更多的机遇和好东西等着我，不过尽管我想向这个组织出一份力，我也压根帮不上忙，只好水在论坛里看着各位大神吵架然后顺走他们的成果哈哈哈  </p>
-<p><em>感谢吾爱破解，敬礼！</em>  </p>
-<blockquote>
-<p>感觉在吾爱破解里面获得比较好的东西排行榜  </p>
-<ol>
-<li>京东脚本</li>
-<li>WPS企业定制版/政府版/各大Office版本</li>
-<li>各大win10必备工具<strong>纯净版</strong>，2345好压、WinRAR、360工具等</li>
-<li>Win10 manager</li>
-<li>叫不上名字的好多电脑工具，包括民间自制的、破解官方的等</li>
-<li>其实更好的是，每次有什么新消息，吾爱论坛都会很快更新，比如 MIUI 12.5的偷渡版等等，也导致我不管啥东西都要现在上面搜索一下看看有没有更好的办法</li>
-</ol>
-</blockquote>
-<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/164615/23/11146/4718/6075ab3bEf6714be8/874b50ebdf3e9ee1.png"></p>
-]]></content>
-      <tags>
-        <tag>纪念</tag>
       </tags>
   </entry>
   <entry>
@@ -454,6 +422,59 @@
 ]]></content>
       <tags>
         <tag>网站历程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>此篇谨以感谢吾爱破解论坛对我的帮助和改变</title>
+    <url>/post/52pj.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="背景"><a href="#背景" class="headerlink" title="背景"></a>背景</h3><p>从我一开始拿到电脑，一个四千多块钱的家伙起，我就知道我跟电脑的关系不仅于游戏和做一些普通的事情，我的电脑也绝不会是一台没啥功能的电脑。所以我那段时间经常在想怎么让电脑实现更多的功能或者是能办更多的事情。<br>在找了很多关于“win10”玩机的资料，加上很多营销号各种吹上天的破软件，点名<strong>某乎</strong>，很少能找到真正用得上、能用、有意义的东西。后来在一些公众号上推广的各种软件（其实那些公众号也没啥用），机缘巧合地，看见了一个熟悉的身影，发现了他们（公众号）很多东西来源于一个地方：<strong>吾爱破解</strong><br><br><br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/164615/23/11146/4718/6075ab3bEf6714be8/874b50ebdf3e9ee1.png"><br><br></p>
+<h3 id="熟悉的身影→-→"><a href="#熟悉的身影→-→" class="headerlink" title="熟悉的身影→_→"></a>熟悉的身影→_→</h3><p>为什么说熟悉，早在很久很久以前，刚开始接触智能机玩天天酷跑的时候（那个时候天天酷跑30M），为了寻找破解版的我，在百度上以“破解”关键词进行过大量搜索，估计那个时候就知道有这个东西。后来在很多破解软件中，也多多少少见过这种字样“吾爱破解@XXX”  </p>
+<blockquote>
+<p>为什么会有破解软件？以前单机游戏谁不曾想玩破解版或者修改器？  </p>
+</blockquote>
+<hr>
+<h3 id="关于吾爱破解"><a href="#关于吾爱破解" class="headerlink" title="关于吾爱破解"></a>关于吾爱破解</h3><p>在公众号上看到吾爱破解出厂了那么多奇怪的软件，自然就吸引到我了。（奇怪：指没啥用【高情商】）  </p>
+<blockquote>
+<p><a href="https://www.52pojie.cn/">https://www.52pojie.cn/</a>  </p>
+</blockquote>
+<p>果然这个论坛给我的气息就是不一样，密密麻麻的的字跟脚本之家有点相似。一看就知道是理科大佬群聚的地方，而且是好地方。<br>其实到这个时候我还不知道吾爱破解的大神跟我有啥关系，毕竟人家研究逆向、安全、工程，好像也和我没有关系啊…<br>一切直到2020年十一月，双十一活动前夕。<br>我只是想看看最近有没有什么可以捞一下的软件或者有没有什么新的 IT事情发生，结果，在热门版区看到赫赫几个大字：<strong>全自动京东双十一XX活动</strong>  </p>
+<h4 id="白嫖干嘛？愣着啊"><a href="#白嫖干嘛？愣着啊" class="headerlink" title="白嫖干嘛？愣着啊"></a>白嫖干嘛？愣着啊</h4><p>没错，我思考了很久，我们既然可以把破解应用在游戏上，又为何不可用在赚钱上？  </p>
+<p><em>我没想到的事情，吾爱大神想到了，而且他们做出来了，最伟大的是，他们分享出来了</em></p>
+<p>我果断下载打开软件，系统报毒？那就是系统出问题了，把系统的杀毒软件关了就行了，这是我在吾爱悟出来的硬道理。没有强盗会抢一个身无分文的人的东西，也没有黑客会去盗取一位平民用户的数据，何况大家还都是普通人。（当然，在别的地方下载的.exe就别随便信任，“O泡时间到”警告）。所以那个会直接删除我所谓的病毒软件的卫士，早就被我卸载了。  </p>
+<blockquote>
+<p>电脑小白不建议win10裸奔，也别随便信任软件！</p>
+</blockquote>
+<p>话说回来，然后我就顶着这个病毒文件，（确实是特洛伊病毒，但无大碍），将这个脚本挂了十几天。我一开始不信你知道吧，我觉得开个挂也就多一点点收益，就像每年双十一淘宝那个活动我一直都只是随便签到做做任务，然后拿着几块钱红包乐呵一下。<br>但是时代变了，我那时的身份是一个贫困的大学生，我过啥双十一啊我，不过我并没有放弃我的探索，毕竟拿商业软件开脚本的，我是真的第一次见。  </p>
+<h4 id="那次"><a href="#那次" class="headerlink" title="那次"></a>那次</h4><p>我向我身边几位朋友说，可能有个好东西可以白嫖，但是我也不确定收益。最后我的室友终于在我的蛊惑下加入了我的阵营。主要是没啥需要付出的，每天就只需要在电脑点两下，比挖矿都轻松。这能不试试？<br>为期十余天，用该软件挂着京东的活动，一共9个号，也就是在我的电脑上运作着9个病毒文件</p>
+<h4 id="收益"><a href="#收益" class="headerlink" title="收益"></a>收益</h4><p>一开始估算是一个号20元红包吧，毕竟从来没有完整做过活动，也不敢太大胆去猜。最后果然还是太保守了，<br>总收益高达<strong>500元</strong>，而且每个号还有大量的优惠券<br>我那个时候有点吃惊，后来我喝着因为有点渴从宿舍里面放着的几箱伊利高钙奶和特仑苏中随便拿的一瓶牛奶，看着满屏的数据，跟朋友们谈论此事的时候，嘴上都带着某种来自贫困人民突然变成富豪的暴发户类似的诡异微笑。</p>
+<h3 id="他给我开了一扇门，门里闪耀着光"><a href="#他给我开了一扇门，门里闪耀着光" class="headerlink" title="他给我开了一扇门，门里闪耀着光"></a>他给我开了一扇门，门里闪耀着光</h3><p>那个双十一只是一个小例子罢了，吾爱破解给我带来的当然不只是一个商业挂；<strong>更多的是一种思考模式：当一件事可以获利时，很大可能是会有人去做了，所以想要冲在别人前面，首先消息就要比别人灵通，手段要比别人高明</strong>，就像那位写出了抢茅台的老哥，靠着利用和出售代码不知道赚了多少钱，最后代码失效的时候再开源，又赚了一波人气。不得不感慨总会有人既有才华也很努力。  </p>
+<blockquote>
+<p>当然，道理不止这么一条，比如一个东西越多人用，收益也会被平摊</p>
+</blockquote>
+<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/170992/20/18288/628921/6075ab43E6a22cc48/6a39544ab42b2872.jpg" alt="盛世"></p>
+<blockquote>
+<p>图为2021年京东春季赛，啊不是，是2021年，春节的时候京东炸年兽的时候+京喜（京东旗下另一个网购APP）挂脚本</p>
+</blockquote>
+<p><em>对了，另外说明，挂脚本不会损失商家利益，只是相当于机器人做任务而已，顶多算损害你的利益</em></p>
+<p>不过，春节的时候因为活动参与者比较多，所以收益有所减少。</p>
+<p>做了粗略统计，光是这类脚本，总收益就已超一千，虽然不是我的单纯收入。但起码验证一个道理，科技是第一生产力。只要足够聪明，总会有各种奇奇怪怪的套路。</p>
+<h3 id="成功加入吾爱破解论坛，成为正式会员！"><a href="#成功加入吾爱破解论坛，成为正式会员！" class="headerlink" title="成功加入吾爱破解论坛，成为正式会员！"></a>成功加入吾爱破解论坛，成为正式会员！</h3><h4 id="加入吾爱一个月纪念"><a href="#加入吾爱一个月纪念" class="headerlink" title="加入吾爱一个月纪念~"></a>加入吾爱一个月纪念~</h4><p>趁着吾爱周年庆，我也终于有机会加入这个小众（对于普通人）而又神通广大的民间组织。更多的机遇和好东西等着我，不过尽管我想向这个组织出一份力，我也压根帮不上忙，只好水在论坛里看着各位大神吵架然后顺走他们的成果哈哈哈  </p>
+<p><em>感谢吾爱破解，敬礼！</em>  </p>
+<blockquote>
+<p>感觉在吾爱破解里面获得比较好的东西排行榜  </p>
+<ol>
+<li>京东脚本</li>
+<li>WPS企业定制版/政府版/各大Office版本</li>
+<li>各大win10必备工具<strong>纯净版</strong>，2345好压、WinRAR、360工具等</li>
+<li>Win10 manager</li>
+<li>叫不上名字的好多电脑工具，包括民间自制的、破解官方的等</li>
+<li>其实更好的是，每次有什么新消息，吾爱论坛都会很快更新，比如 MIUI 12.5的偷渡版等等，也导致我不管啥东西都要现在上面搜索一下看看有没有更好的办法</li>
+</ol>
+</blockquote>
+<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/164615/23/11146/4718/6075ab3bEf6714be8/874b50ebdf3e9ee1.png"></p>
+]]></content>
+      <tags>
+        <tag>纪念</tag>
       </tags>
   </entry>
   <entry>
@@ -534,36 +555,6 @@
       </tags>
   </entry>
   <entry>
-    <title>纪念一下第一次家教//即将经济独立</title>
-    <url>/post/3186204c.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="上了大学念了这么久，终于踏出一步"><a href="#上了大学念了这么久，终于踏出一步" class="headerlink" title="上了大学念了这么久，终于踏出一步"></a>上了大学念了这么久，终于踏出一步</h3><p>自从到了广州，总想着各种办法搞钱，但都没有大发展，有时候也是真的懒，或者没有准备好。像第一次那个想成人高考的家教英语，还没开始就结束了，一是没有太多准备，二是没有太大决心。<strong>但是现在是真的有决心去兼职，也开始认认真真去做了！</strong><br>其实昨天见面的时候还是挺紧张的，怕自己不够格，怕因为教不好被谴责，怕自己没有安排好时间耽误别的事情。但是有时候，头皮一硬，冲就完事了！一心想搞钱，谁也拦不住我了。</p>
-<h3 id="面基-amp-开始"><a href="#面基-amp-开始" class="headerlink" title="面基&amp;开始"></a>面基&amp;开始</h3><p>昨天（星期六）下午，就和跟我联系的叔叔联系见面，和我要教的学生以及他的妈妈。见了面就直接往饭店里进去了hhh受宠若惊【此处应该有图，但是不好意思拍照】，看这装修风格反正我是正常情况是吃不起。点了几个菜之后，边喝茶边聊天。叔叔阿姨都是广州本地人，很友好，可惜叔叔一直讲粤语，他的普通话就很广东，大部分还得靠阿姨翻译。我的学生也很好说话，跟我是同一年出生的，基本是没有任何沟通代沟的。所以整个过程还是挺舒心的！太棒了！<br>今天早上正式开讲。8点半差不多吧。七点多坐地铁过去的时候贼困，昨天两点才睡觉。。。紧急备了一下课，先给自己做做心理工作哈哈哈哈哈。<br>工作环境（学习环境）很好，在他们家的天台，光线充足还有微风，真不错，图来~<br><br><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/160949/15/12623/182066/604e1bdbE77a2df68/a09c7ff9fc871e1b.jpg"></p>
-<p>然后就讲了一个上午，感觉效率还是，我的学生悟性很高，我感觉这种上班环境+上班氛围，估计可以吊打大批社畜了。<br>十一点半多就结束，然后一起去吃了顿饭  </p>
-<p><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/164148/32/12490/114470/604e1cefEaeafcb08/27cbc03bd3d1a536.jpg">  </p>
-<p>依然不好意思拍照的我，悄悄咪咪拍了一张。<br>有工资还蹭饭，不愧是我。<br>不过嘛，跟陌生人一起吃饭还是有点拘谨的哈哈哈</p>
-<h3 id="经济独立"><a href="#经济独立" class="headerlink" title="经济独立"></a>经济独立</h3><p>按照我这个工作做下来，别说满足日常消费，我已经是人上人了。一想到有钱花了，坐个地铁回去路上傻笑了一路，还好戴着口罩哈哈哈哈哈哈哈。我就爱幻想这些美好的生活，以前是幻想，现在可能有能力来真正实现了。比如我可以买个吉他，买上所有以前想要但是太贵不敢买的，生活越来越有盼头了，真不错！<br>而且这个工作对我来说也意义重大（字面意思），不只是钱啊，这种类似社会实践的，其实平时接触的是比较少的，这也是个很好的机会来锻炼自己。钱不钱其实不重要啊，主要是想提升一下自己的能力嘛对吧<br><strong>2021.3.14</strong></p>
-]]></content>
-      <tags>
-        <tag>纪念</tag>
-        <tag>修仙之路</tag>
-        <tag>职业生涯</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>给网站弄个证书</title>
-    <url>/post/b7c45993.html</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/175360/33/8370/84644/6094fcabE92189f21/20046d90c82123d8.jpg"><br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/191933/24/1865/80700/6094fcabE2c221519/3c3f9b9701636eda.png"><br>当然，以后有用，反正免费的<br>证书还没申请下来，申请下来了也还要部署什么的（好像很麻烦），以后再来探索一下了</p>
-<hr>
-<p><em>5月10号，二更</em></p>
-<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/182082/20/3344/140724/60995038Eccb16887/5ce68062151dd239.png"><br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/190775/7/2461/15465/60995036E04687e8a/93d17b3f7e99d263.png"><br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/190722/28/2450/35746/60995037E6a123edd/75dd4c2d63b6c7f5.png"><br>拿到证书了，合照一波<br>网站嘛，安全最重要，肯定得是https<br>不过部署的话没那么快，目前也在探秘中~~~<br>找了很多ssl部署的教程，笑死，根本看不懂<br>然后准备去Cloud Flare上部署，现在我也是一脸懵逼/捂脸</p>
-]]></content>
-      <tags>
-        <tag>网站历程</tag>
-        <tag>Blog2.0</tag>
-        <tag>探索</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>简单地记下几笔</title>
     <url>/post/c38acc06.html</url>
     <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="这个夏天喝到橘子味汽水之前，先尝尝酸掉牙的柠檬味七喜？"><a href="#这个夏天喝到橘子味汽水之前，先尝尝酸掉牙的柠檬味七喜？" class="headerlink" title="这个夏天喝到橘子味汽水之前，先尝尝酸掉牙的柠檬味七喜？"></a>这个夏天喝到橘子味汽水之前，先尝尝酸掉牙的柠檬味七喜？</h3><blockquote>
@@ -595,6 +586,36 @@
 ]]></content>
       <tags>
         <tag>生活记录仪</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>纪念一下第一次家教//即将经济独立</title>
+    <url>/post/3186204c.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><h3 id="上了大学念了这么久，终于踏出一步"><a href="#上了大学念了这么久，终于踏出一步" class="headerlink" title="上了大学念了这么久，终于踏出一步"></a>上了大学念了这么久，终于踏出一步</h3><p>自从到了广州，总想着各种办法搞钱，但都没有大发展，有时候也是真的懒，或者没有准备好。像第一次那个想成人高考的家教英语，还没开始就结束了，一是没有太多准备，二是没有太大决心。<strong>但是现在是真的有决心去兼职，也开始认认真真去做了！</strong><br>其实昨天见面的时候还是挺紧张的，怕自己不够格，怕因为教不好被谴责，怕自己没有安排好时间耽误别的事情。但是有时候，头皮一硬，冲就完事了！一心想搞钱，谁也拦不住我了。</p>
+<h3 id="面基-amp-开始"><a href="#面基-amp-开始" class="headerlink" title="面基&amp;开始"></a>面基&amp;开始</h3><p>昨天（星期六）下午，就和跟我联系的叔叔联系见面，和我要教的学生以及他的妈妈。见了面就直接往饭店里进去了hhh受宠若惊【此处应该有图，但是不好意思拍照】，看这装修风格反正我是正常情况是吃不起。点了几个菜之后，边喝茶边聊天。叔叔阿姨都是广州本地人，很友好，可惜叔叔一直讲粤语，他的普通话就很广东，大部分还得靠阿姨翻译。我的学生也很好说话，跟我是同一年出生的，基本是没有任何沟通代沟的。所以整个过程还是挺舒心的！太棒了！<br>今天早上正式开讲。8点半差不多吧。七点多坐地铁过去的时候贼困，昨天两点才睡觉。。。紧急备了一下课，先给自己做做心理工作哈哈哈哈哈。<br>工作环境（学习环境）很好，在他们家的天台，光线充足还有微风，真不错，图来~<br><br><br><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/160949/15/12623/182066/604e1bdbE77a2df68/a09c7ff9fc871e1b.jpg"></p>
+<p>然后就讲了一个上午，感觉效率还是，我的学生悟性很高，我感觉这种上班环境+上班氛围，估计可以吊打大批社畜了。<br>十一点半多就结束，然后一起去吃了顿饭  </p>
+<p><img src="http://free-cn-01.cdn.bilnn.com/asf/jfs/t1/164148/32/12490/114470/604e1cefEaeafcb08/27cbc03bd3d1a536.jpg">  </p>
+<p>依然不好意思拍照的我，悄悄咪咪拍了一张。<br>有工资还蹭饭，不愧是我。<br>不过嘛，跟陌生人一起吃饭还是有点拘谨的哈哈哈</p>
+<h3 id="经济独立"><a href="#经济独立" class="headerlink" title="经济独立"></a>经济独立</h3><p>按照我这个工作做下来，别说满足日常消费，我已经是人上人了。一想到有钱花了，坐个地铁回去路上傻笑了一路，还好戴着口罩哈哈哈哈哈哈哈。我就爱幻想这些美好的生活，以前是幻想，现在可能有能力来真正实现了。比如我可以买个吉他，买上所有以前想要但是太贵不敢买的，生活越来越有盼头了，真不错！<br>而且这个工作对我来说也意义重大（字面意思），不只是钱啊，这种类似社会实践的，其实平时接触的是比较少的，这也是个很好的机会来锻炼自己。钱不钱其实不重要啊，主要是想提升一下自己的能力嘛对吧<br><strong>2021.3.14</strong></p>
+]]></content>
+      <tags>
+        <tag>纪念</tag>
+        <tag>修仙之路</tag>
+        <tag>职业生涯</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>给网站弄个证书</title>
+    <url>/post/b7c45993.html</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\css\APlayer.min.css"><script src="\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\js\Meting.min.js"></script><p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/175360/33/8370/84644/6094fcabE92189f21/20046d90c82123d8.jpg"><br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/191933/24/1865/80700/6094fcabE2c221519/3c3f9b9701636eda.png"><br>当然，以后有用，反正免费的<br>证书还没申请下来，申请下来了也还要部署什么的（好像很麻烦），以后再来探索一下了</p>
+<hr>
+<p><em>5月10号，二更</em></p>
+<p><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/182082/20/3344/140724/60995038Eccb16887/5ce68062151dd239.png"><br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/190775/7/2461/15465/60995036E04687e8a/93d17b3f7e99d263.png"><br><img src="http://free-cn-01.cdn.bilnn.com/ddfilesass/jfs/t1/190722/28/2450/35746/60995037E6a123edd/75dd4c2d63b6c7f5.png"><br>拿到证书了，合照一波<br>网站嘛，安全最重要，肯定得是https<br>不过部署的话没那么快，目前也在探秘中~~~<br>找了很多ssl部署的教程，笑死，根本看不懂<br>然后准备去Cloud Flare上部署，现在我也是一脸懵逼/捂脸</p>
+]]></content>
+      <tags>
+        <tag>网站历程</tag>
+        <tag>Blog2.0</tag>
+        <tag>探索</tag>
       </tags>
   </entry>
   <entry>
